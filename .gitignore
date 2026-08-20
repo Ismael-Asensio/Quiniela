@@ -1,0 +1,31 @@
+# Configuración local con credenciales
+config/local.php
+
+# Variables de entorno
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+
+# Salida de la tarea programada de sincronización (logs, candado)
+bin/logs/
+
+# Backups de base de datos y binarios
+*.sql.gz
+*.bak
+*.docx
+
+# Documentos temporales o no versionables
+Claude outputs/
+Monografia/
+
+# Sistema operativo / editor / herramientas
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+.claude/
+.impeccable/
+.git_backup/
