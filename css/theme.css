@@ -1,0 +1,226 @@
+/* ═══════════════════════════════════════════════════════════════
+   QUINIELA — Sistema de diseño (tokens, tipografía, tema claro/oscuro)
+   ═══════════════════════════════════════════════════════════════
+   Fuente única de verdad para todo custom property de color, tipografía
+   y elevación. styles.css SOLO consume var(--...);
+   ya no redefine tokens en múltiples hojas, y --surface / --surface-light
+   quedan centralizadas aquí.
+
+   Modo: oscuro es el valor por defecto en :root (identidad histórica
+   de la app, ya validada en la auditoría de accesibilidad previa).
+   [data-theme="light"] lo sobreescribe explícitamente (fijado por el
+   usuario vía el toggle, persistido en localStorage). Sin preferencia
+   guardada, prefers-color-scheme decide automáticamente.
+   ═══════════════════════════════════════════════════════════════ */
+
+:root {
+    /* ─── Tipografía ───
+       Display: Bebas Neue — trazo condensado de marcador de estadio,
+       para el hero del login y números grandes (puntos, cuotas, montos).
+       Cuerpo: Manrope — grotesca legible con buena cifra tabular,
+       para toda la UI de trabajo (tablas, formularios, texto denso). */
+    --font: 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --font-display: 'Bebas Neue', var(--font);
+
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+    --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+
+    --header-height: 64px;
+    --nav-height: 48px;
+    --mobile-nav-height: 64px;
+
+    /* ══ MODO OSCURO (valor por defecto) — noche de estadio bajo luces ══
+       Valores refinados para coherencia visual y contraste;
+       se preservan aquí para consumo centralizado. */
+    --bg-primary: #090e1a;
+    --bg-secondary: #0f1729;
+    --bg-card: #121b31;
+    --surface: #121b31;
+    --surface-light: #182544;
+    --bg-glass: rgba(255, 255, 255, 0.04);
+    --bg-glass-hover: rgba(255, 255, 255, 0.09);
+    --bg-input: rgba(0, 0, 0, 0.25);
+    --bg-input-focus: rgba(0, 0, 0, 0.4);
+    --bg-overlay: rgba(4, 7, 14, 0.72);
+    /* Superficie translúcida + blur (header, bottom-nav, modales, toasts) */
+    --bg-elevated: rgba(9, 13, 22, 0.85);
+    --bg-elevated-strong: rgba(9, 13, 22, 0.95);
+
+    --border-glass: rgba(255, 255, 255, 0.1);
+    --border-glass-hover: rgba(255, 255, 255, 0.2);
+
+    --text-primary: #f3f4f6;
+    --text-secondary: #9ca3af;
+    --text-muted: #8b93a1;
+    --text-on-brand: #071019;
+    --text-on-white: #071019;
+
+    --green-400: #26d980;
+    --green-500: #1abc71;
+    --green-600: #059669;
+    --gold-400: #fbc02d;
+    --gold-500: #faa805;
+    --gold-600: #ca8a04;
+    --blue-400: #60a5fa;
+    --blue-500: #3b82f6;
+    --red-400: #f87171;
+    --red-500: #ef4444;
+    --amber-400: #fbbf24;
+    --purple-400: #c084fc;
+    --cyan-400: #22d3ee;
+    --violet-400: #c4b5fd;
+    --violet-500: #a78bfa;
+    --violet-600: #7c3aed;
+
+    --gradient-green: linear-gradient(135deg, #1abc71, #00c1d6);
+    --gradient-gold: linear-gradient(135deg, #f59f0a, #facc14);
+    --gradient-fire: linear-gradient(135deg, #ef4444, #f97316);
+    --gradient-blue: linear-gradient(135deg, #3b82f6, #8b5cf6);
+    --gradient-pitch: linear-gradient(135deg, #063a2c 0%, #0b2f4d 52%, #241a4d 100%);
+    --gradient-scoreboard: linear-gradient(120deg, var(--green-500), var(--blue-500) 55%, var(--violet-500));
+
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+    --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.5);
+    --shadow-xl: 0 24px 64px rgba(0, 0, 0, 0.55);
+    --shadow-glow-green: 0 0 20px rgba(34, 197, 94, 0.3);
+    --shadow-glow-gold: 0 0 20px rgba(234, 179, 8, 0.3);
+    --shadow-glow-violet: 0 0 28px rgba(167, 139, 250, 0.28);
+
+    color-scheme: dark;
+}
+
+/* ══ MODO CLARO ══
+   Tarde de partido a pleno sol — mismo estadio, misma identidad, otra
+   luz. Fondo frío y suave (no blanco puro) para evitar el deslumbre;
+   los tonos de marca se oscurecen un escalón donde se leen como texto,
+   para seguir cumpliendo AA sobre superficie clara. */
+:root[data-theme="light"] {
+    --bg-primary: #eef1f8;
+    --bg-secondary: #f5f7fb;
+    --bg-card: #ffffff;
+    --surface: #ffffff;
+    --surface-light: #f6f8fc;
+    --bg-glass: rgba(15, 23, 42, 0.035);
+    --bg-glass-hover: rgba(15, 23, 42, 0.07);
+    --bg-input: rgba(15, 23, 42, 0.035);
+    --bg-input-focus: rgba(15, 23, 42, 0.055);
+    --bg-overlay: rgba(30, 38, 56, 0.45);
+    --bg-elevated: rgba(255, 255, 255, 0.82);
+    --bg-elevated-strong: rgba(255, 255, 255, 0.95);
+
+    --border-glass: rgba(15, 23, 42, 0.09);
+    --border-glass-hover: rgba(15, 23, 42, 0.18);
+
+    --text-primary: #10151f;
+    --text-secondary: #4b5568;
+    --text-muted: #636b7c;
+    /* --text-on-brand se queda en tinta oscura en ambos modos a propósito:
+       viste texto sobre los degradados de acento (verde/azul/violeta),
+       que se mantienen igual de vívidos en claro y oscuro — sólo el
+       FONDO de la página cambia de modo, no el acento de marca. */
+    --text-on-white: #10151f;
+
+    --green-400: #047857;
+    --gold-400: #92610a;
+    --blue-400: #1d4ed8;
+    --red-400: #b91c1c;
+    --purple-400: #6d28d9;
+    --violet-400: #6d28d9;
+
+    --gradient-pitch: linear-gradient(135deg, #d8f2e4 0%, #cfe4fb 52%, #e9defb 100%);
+
+    --shadow-sm: 0 2px 8px rgba(24, 34, 56, 0.08);
+    --shadow-md: 0 8px 24px rgba(24, 34, 56, 0.1);
+    --shadow-lg: 0 20px 48px rgba(24, 34, 56, 0.14);
+    --shadow-xl: 0 28px 72px rgba(24, 34, 56, 0.18);
+    --shadow-glow-green: 0 0 22px hsla(160, 70%, 32%, 0.16);
+    --shadow-glow-gold: 0 0 22px hsla(38, 80%, 35%, 0.14);
+    --shadow-glow-violet: 0 0 24px hsla(262, 60%, 45%, 0.16);
+
+    color-scheme: light;
+}
+
+/* Sin preferencia guardada (sin atributo data-theme): sigue al sistema. */
+@media (prefers-color-scheme: light) {
+    :root:not([data-theme]) {
+        --bg-primary: #eef1f8;
+        --bg-secondary: #f5f7fb;
+        --bg-card: #ffffff;
+        --surface: #ffffff;
+        --surface-light: #f6f8fc;
+        --bg-glass: rgba(15, 23, 42, 0.035);
+        --bg-glass-hover: rgba(15, 23, 42, 0.07);
+        --bg-input: rgba(15, 23, 42, 0.035);
+        --bg-input-focus: rgba(15, 23, 42, 0.055);
+        --bg-overlay: rgba(30, 38, 56, 0.45);
+        --bg-elevated: rgba(255, 255, 255, 0.82);
+        --bg-elevated-strong: rgba(255, 255, 255, 0.95);
+
+        --border-glass: rgba(15, 23, 42, 0.09);
+        --border-glass-hover: rgba(15, 23, 42, 0.18);
+
+        --text-primary: #10151f;
+        --text-secondary: #4b5568;
+        --text-muted: #636b7c;
+        --text-on-white: #10151f;
+
+        --green-400: #047857;
+        --gold-400: #92610a;
+        --blue-400: #1d4ed8;
+        --red-400: #b91c1c;
+        --purple-400: #6d28d9;
+        --violet-400: #6d28d9;
+
+        --gradient-pitch: linear-gradient(135deg, #d8f2e4 0%, #cfe4fb 52%, #e9defb 100%);
+
+        --shadow-sm: 0 2px 8px rgba(24, 34, 56, 0.08);
+        --shadow-md: 0 8px 24px rgba(24, 34, 56, 0.1);
+        --shadow-lg: 0 20px 48px rgba(24, 34, 56, 0.14);
+        --shadow-xl: 0 28px 72px rgba(24, 34, 56, 0.18);
+        --shadow-glow-green: 0 0 22px hsla(160, 70%, 32%, 0.16);
+        --shadow-glow-gold: 0 0 22px hsla(38, 80%, 35%, 0.14);
+        --shadow-glow-violet: 0 0 24px hsla(262, 60%, 45%, 0.16);
+
+        color-scheme: light;
+    }
+}
+
+/* ─── Toggle de tema ─── */
+.theme-toggle {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 999px;
+    border: 1px solid var(--border-glass);
+    background: var(--bg-glass);
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s, color 0.2s, transform 0.2s;
+    flex-shrink: 0;
+}
+.theme-toggle:hover {
+    background: var(--bg-glass-hover);
+    color: var(--gold-400);
+    border-color: var(--border-glass-hover);
+}
+.theme-toggle:active { transform: scale(0.92); }
+.theme-toggle svg { width: 18px; height: 18px; }
+.theme-toggle .icon-sun { display: none; }
+.theme-toggle .icon-moon { display: block; }
+:root[data-theme="light"] .theme-toggle .icon-sun { display: block; }
+:root[data-theme="light"] .theme-toggle .icon-moon { display: none; }
+@media (prefers-color-scheme: light) {
+    :root:not([data-theme]) .theme-toggle .icon-sun { display: block; }
+    :root:not([data-theme]) .theme-toggle .icon-moon { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .theme-toggle { transition: none; }
+}
