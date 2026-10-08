@@ -1,0 +1,76 @@
+{
+    "success": true,
+    "membresias": {
+        "TotalMembresias": 6,
+        "RecaudacionTotal": "600.00",
+        "Activas": 6,
+        "Inactivas": 0
+    },
+    "campeonPorEquipo": [],
+    "recaudacionPorDia": [],
+    "membresiasRecientes": [
+        {
+            "Id": 95,
+            "NombreUsuario": "rvillachica",
+            "NombreCompleto": "Rodolfo Villachica",
+            "MontoPagado": "100.00",
+            "FechaPago": "2026-07-22 14:50:42",
+            "Estado": "Activa"
+        },
+        {
+            "Id": 94,
+            "NombreUsuario": "pargenal",
+            "NombreCompleto": "Pavel Argeñal",
+            "MontoPagado": "100.00",
+            "FechaPago": "2026-07-22 14:49:46",
+            "Estado": "Activa"
+        },
+        {
+            "Id": 93,
+            "NombreUsuario": "HECGONMO",
+            "NombreCompleto": "Hector Gonzalez",
+            "MontoPagado": "100.00",
+            "FechaPago": "2026-07-22 14:49:13",
+            "Estado": "Activa"
+        },
+        {
+            "Id": 92,
+            "NombreUsuario": "Jbonilla76",
+            "NombreCompleto": "Julio Bonilla",
+            "MontoPagado": "100.00",
+            "FechaPago": "2026-07-22 14:49:05",
+            "Estado": "Activa"
+        },
+        {
+            "Id": 91,
+            "NombreUsuario": "jmatamoros",
+            "NombreCompleto": "Jhon Matamoros",
+            "MontoPagado": "100.00",
+            "FechaPago": "2026-07-22 14:48:54",
+            "Estado": "Activa"
+        },
+        {
+            "Id": 90,
+            "NombreUsuario": "Chema",
+            "NombreCompleto": "Chema Bermudez",
+            "MontoPagado": "100.00",
+            "FechaPago": "2026-07-22 14:48:46",
+            "Estado": "Activa"
+        }
+    ],
+    "apuestasResumen": {
+        "TotalApuestas": 0,
+        "MontoTotal": ".00",
+        "GananciasPagadas": ".00",
+        "Pendientes": 0,
+        "Ganadas": 0,
+        "Perdidas": 0
+    },
+    "membresiasPorDia": [
+        {
+            "Dia": "2026-07-22",
+            "Cantidad": 6,
+            "MontoTotal": "600.00"
+        }
+    ]
+}

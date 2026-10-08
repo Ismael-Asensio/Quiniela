@@ -1,0 +1,14 @@
+{
+    "general": {
+        "PuntosTotales": 12,
+        "TotalPredicciones": 0,
+        "PrediccionesEvaluadas": 0,
+        "Aciertos": 0,
+        "AciertosExactos": 0,
+        "PartidosRestantes": 40,
+        "TotalPartidos": 40
+    },
+    "porDia": [],
+    "porPartido": [],
+    "posicionRanking": "-"
+}

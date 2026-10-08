@@ -1,0 +1,1634 @@
+{
+    "success": true,
+    "usuarios": [
+        {
+            "Id": 96,
+            "NombreUsuario": "acruz",
+            "NombreCompleto": "Alirio Cruz"
+        },
+        {
+            "Id": 1,
+            "NombreUsuario": "admin",
+            "NombreCompleto": "Administrador"
+        },
+        {
+            "Id": 6,
+            "NombreUsuario": "Agaton",
+            "NombreCompleto": "Antonio"
+        },
+        {
+            "Id": 25,
+            "NombreUsuario": "Altair",
+            "NombreCompleto": "Alexander Francisco Sandino Gonzalez"
+        },
+        {
+            "Id": 71,
+            "NombreUsuario": "aramirez",
+            "NombreCompleto": "Amaru Ramirez"
+        },
+        {
+            "Id": 100,
+            "NombreUsuario": "bsantana",
+            "NombreCompleto": "Bismarck Santana"
+        },
+        {
+            "Id": 27,
+            "NombreUsuario": "canales",
+            "NombreCompleto": "Erick Canales"
+        },
+        {
+            "Id": 22,
+            "NombreUsuario": "Cazardor94",
+            "NombreCompleto": "Michael"
+        },
+        {
+            "Id": 98,
+            "NombreUsuario": "ccastro",
+            "NombreCompleto": "Carlos Castro"
+        },
+        {
+            "Id": 94,
+            "NombreUsuario": "ccuadra",
+            "NombreCompleto": "Carlos Cuadra"
+        },
+        {
+            "Id": 31,
+            "NombreUsuario": "cfonseca",
+            "NombreCompleto": "Camilo Fonseca"
+        },
+        {
+            "Id": 89,
+            "NombreUsuario": "cfornos",
+            "NombreCompleto": "Cesar Fornos"
+        },
+        {
+            "Id": 67,
+            "NombreUsuario": "Cguada",
+            "NombreCompleto": "Carlos Guadamuz"
+        },
+        {
+            "Id": 46,
+            "NombreUsuario": "Chema",
+            "NombreCompleto": "Chema Bermudez"
+        },
+        {
+            "Id": 84,
+            "NombreUsuario": "chepejuarez",
+            "NombreCompleto": "Jose Ignacio Juarez"
+        },
+        {
+            "Id": 93,
+            "NombreUsuario": "clazo",
+            "NombreCompleto": "Carlos Lazo"
+        },
+        {
+            "Id": 33,
+            "NombreUsuario": "cnorori",
+            "NombreCompleto": "César Norori"
+        },
+        {
+            "Id": 7,
+            "NombreUsuario": "csilva",
+            "NombreCompleto": "Christian"
+        },
+        {
+            "Id": 4,
+            "NombreUsuario": "cvande",
+            "NombreCompleto": "Carlos Van de Velde"
+        },
+        {
+            "Id": 104,
+            "NombreUsuario": "Ddo",
+            "NombreCompleto": "Donald Umaña"
+        },
+        {
+            "Id": 56,
+            "NombreUsuario": "dperez",
+            "NombreCompleto": "Douglas Pérez"
+        },
+        {
+            "Id": 76,
+            "NombreUsuario": "dsalinas",
+            "NombreCompleto": "Denis Salinas"
+        },
+        {
+            "Id": 102,
+            "NombreUsuario": "dvazquez",
+            "NombreCompleto": "Diego Vazquez"
+        },
+        {
+            "Id": 41,
+            "NombreUsuario": "egarcia",
+            "NombreCompleto": "Elena Garcia"
+        },
+        {
+            "Id": 77,
+            "NombreUsuario": "eherrera",
+            "NombreCompleto": "Eduardo Herrera"
+        },
+        {
+            "Id": 86,
+            "NombreUsuario": "Emairena",
+            "NombreCompleto": "Edwin mairena"
+        },
+        {
+            "Id": 91,
+            "NombreUsuario": "esabla",
+            "NombreCompleto": "Edwin Sabla"
+        },
+        {
+            "Id": 58,
+            "NombreUsuario": "fpaz",
+            "NombreCompleto": "Francisco Paz"
+        },
+        {
+            "Id": 45,
+            "NombreUsuario": "Gbix",
+            "NombreCompleto": "Romel Jose Hermida"
+        },
+        {
+            "Id": 5,
+            "NombreUsuario": "Gloaisiga",
+            "NombreCompleto": "Greys"
+        },
+        {
+            "Id": 49,
+            "NombreUsuario": "HECGONMO",
+            "NombreCompleto": "Hector Gonzalez"
+        },
+        {
+            "Id": 62,
+            "NombreUsuario": "Helmut Hurtado",
+            "NombreCompleto": "Helmuth Hurtado"
+        },
+        {
+            "Id": 38,
+            "NombreUsuario": "henry",
+            "NombreCompleto": "Henry"
+        },
+        {
+            "Id": 52,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada"
+        },
+        {
+            "Id": 54,
+            "NombreUsuario": "hflores",
+            "NombreCompleto": "Holver Flores"
+        },
+        {
+            "Id": 18,
+            "NombreUsuario": "Hsantana",
+            "NombreCompleto": "Heydi S"
+        },
+        {
+            "Id": 3,
+            "NombreUsuario": "iasensio",
+            "NombreCompleto": "Ismael Asensio"
+        },
+        {
+            "Id": 47,
+            "NombreUsuario": "irivera",
+            "NombreCompleto": "Isidro Rivera"
+        },
+        {
+            "Id": 75,
+            "NombreUsuario": "Jbonilla76",
+            "NombreCompleto": "Julio Bonilla"
+        },
+        {
+            "Id": 69,
+            "NombreUsuario": "Jcedeño505",
+            "NombreCompleto": "Jerson Cedeño"
+        },
+        {
+            "Id": 10,
+            "NombreUsuario": "jdarcia",
+            "NombreCompleto": "José David Arcia"
+        },
+        {
+            "Id": 80,
+            "NombreUsuario": "Jespana",
+            "NombreCompleto": "Javier Alender Espana Ocampo"
+        },
+        {
+            "Id": 99,
+            "NombreUsuario": "jfmora",
+            "NombreCompleto": "Juan Francisco Mora"
+        },
+        {
+            "Id": 81,
+            "NombreUsuario": "jjuarez",
+            "NombreCompleto": "Juan Benito Juarez"
+        },
+        {
+            "Id": 30,
+            "NombreUsuario": "jmatamoros",
+            "NombreCompleto": "Jhon Matamoros"
+        },
+        {
+            "Id": 14,
+            "NombreUsuario": "JorgeG",
+            "NombreCompleto": "Jorge García"
+        },
+        {
+            "Id": 74,
+            "NombreUsuario": "Jprado",
+            "NombreCompleto": "Javier prado"
+        },
+        {
+            "Id": 107,
+            "NombreUsuario": "JRNIC",
+            "NombreCompleto": "JRNIC"
+        },
+        {
+            "Id": 90,
+            "NombreUsuario": "jsalinas",
+            "NombreCompleto": "Javier Salinas"
+        },
+        {
+            "Id": 36,
+            "NombreUsuario": "jtoruno",
+            "NombreCompleto": "Jason Toruño"
+        },
+        {
+            "Id": 26,
+            "NombreUsuario": "Kelly",
+            "NombreCompleto": "Kelly Martinez"
+        },
+        {
+            "Id": 92,
+            "NombreUsuario": "lrosas",
+            "NombreCompleto": "Luis Rosas"
+        },
+        {
+            "Id": 64,
+            "NombreUsuario": "madiaz",
+            "NombreCompleto": "Mauricio Díaz"
+        },
+        {
+            "Id": 21,
+            "NombreUsuario": "mbustos",
+            "NombreCompleto": "María José Bustos Bustos"
+        },
+        {
+            "Id": 32,
+            "NombreUsuario": "mdiaz",
+            "NombreCompleto": "Marlon Díaz"
+        },
+        {
+            "Id": 55,
+            "NombreUsuario": "mduarte",
+            "NombreCompleto": "Maximiliano Duarte"
+        },
+        {
+            "Id": 19,
+            "NombreUsuario": "Mercedes",
+            "NombreCompleto": "Mercedes"
+        },
+        {
+            "Id": 12,
+            "NombreUsuario": "Meyling Vasquez04",
+            "NombreCompleto": "Meyling"
+        },
+        {
+            "Id": 70,
+            "NombreUsuario": "Mohamed_21C",
+            "NombreCompleto": "Hamed"
+        },
+        {
+            "Id": 88,
+            "NombreUsuario": "mreynosa",
+            "NombreCompleto": "Mirian Reynosa"
+        },
+        {
+            "Id": 39,
+            "NombreUsuario": "mrivera",
+            "NombreCompleto": "Mario Rivera"
+        },
+        {
+            "Id": 61,
+            "NombreUsuario": "mrosas2026",
+            "NombreCompleto": "Manuel Rosas"
+        },
+        {
+            "Id": 44,
+            "NombreUsuario": "Nestor Soto",
+            "NombreCompleto": "Nestor Ariel Soto Palma"
+        },
+        {
+            "Id": 16,
+            "NombreUsuario": "ney123",
+            "NombreCompleto": "Ney"
+        },
+        {
+            "Id": 85,
+            "NombreUsuario": "ngonzalez",
+            "NombreCompleto": "Noel Gonzalez"
+        },
+        {
+            "Id": 101,
+            "NombreUsuario": "nnarvaez",
+            "NombreCompleto": "Norman Narvaez"
+        },
+        {
+            "Id": 17,
+            "NombreUsuario": "oeliezer",
+            "NombreCompleto": "Osman Eliezer"
+        },
+        {
+            "Id": 63,
+            "NombreUsuario": "olivas",
+            "NombreCompleto": "Otoniel olivas"
+        },
+        {
+            "Id": 83,
+            "NombreUsuario": "pargenal",
+            "NombreCompleto": "Pavel Argeñal"
+        },
+        {
+            "Id": 103,
+            "NombreUsuario": "peragallo",
+            "NombreCompleto": "Ramiro Peragallo"
+        },
+        {
+            "Id": 37,
+            "NombreUsuario": "porozco",
+            "NombreCompleto": "Pedro Orozco"
+        },
+        {
+            "Id": 40,
+            "NombreUsuario": "psaenz",
+            "NombreCompleto": "Pedro Sáenz"
+        },
+        {
+            "Id": 65,
+            "NombreUsuario": "rcasco",
+            "NombreCompleto": "Rommel Casco"
+        },
+        {
+            "Id": 105,
+            "NombreUsuario": "Reycruz",
+            "NombreCompleto": "Reynaldo cruz"
+        },
+        {
+            "Id": 29,
+            "NombreUsuario": "rmairena",
+            "NombreCompleto": "Reynaldo Mairena"
+        },
+        {
+            "Id": 15,
+            "NombreUsuario": "roger",
+            "NombreCompleto": "Roger"
+        },
+        {
+            "Id": 97,
+            "NombreUsuario": "rramirez",
+            "NombreCompleto": "Ricardo Ramirez"
+        },
+        {
+            "Id": 95,
+            "NombreUsuario": "rrodriguez",
+            "NombreCompleto": "Rodolfo Rodriguez"
+        },
+        {
+            "Id": 87,
+            "NombreUsuario": "rvillachica",
+            "NombreCompleto": "Rodolfo Villachica"
+        },
+        {
+            "Id": 78,
+            "NombreUsuario": "schavez",
+            "NombreCompleto": "Santiago Chavez"
+        },
+        {
+            "Id": 68,
+            "NombreUsuario": "si_apiche",
+            "NombreCompleto": "ariel eduardo piche norori"
+        },
+        {
+            "Id": 42,
+            "NombreUsuario": "si_eramirez",
+            "NombreCompleto": "Edward Ramirez"
+        },
+        {
+            "Id": 23,
+            "NombreUsuario": "si_erocha",
+            "NombreCompleto": "Estefania Rocha Orellana"
+        },
+        {
+            "Id": 9,
+            "NombreUsuario": "si_jpastran",
+            "NombreCompleto": "Jonathan Pastran"
+        },
+        {
+            "Id": 43,
+            "NombreUsuario": "si_kmartinez",
+            "NombreCompleto": "Kevin Leonardo Martinez Zuniga"
+        },
+        {
+            "Id": 11,
+            "NombreUsuario": "si_lurroz",
+            "NombreCompleto": "Liz Gutierrez"
+        },
+        {
+            "Id": 20,
+            "NombreUsuario": "si_mguerrero",
+            "NombreCompleto": "Milker Guerrero"
+        },
+        {
+            "Id": 73,
+            "NombreUsuario": "Si_svallecillo",
+            "NombreCompleto": "Suyen Vallecillo"
+        },
+        {
+            "Id": 82,
+            "NombreUsuario": "sjarquin",
+            "NombreCompleto": "Sergio Jarquín"
+        },
+        {
+            "Id": 59,
+            "NombreUsuario": "solivas",
+            "NombreCompleto": "Samuel Olivas"
+        },
+        {
+            "Id": 2,
+            "NombreUsuario": "testuser",
+            "NombreCompleto": "Test User"
+        },
+        {
+            "Id": 8,
+            "NombreUsuario": "Tuckler",
+            "NombreCompleto": "Tuckler"
+        },
+        {
+            "Id": 13,
+            "NombreUsuario": "violetf.2003",
+            "NombreCompleto": "Violet Gutierrez"
+        },
+        {
+            "Id": 34,
+            "NombreUsuario": "vsanchez",
+            "NombreCompleto": "Víctor Hugo Sánchez"
+        },
+        {
+            "Id": 28,
+            "NombreUsuario": "wrodriguez",
+            "NombreCompleto": "William Rodríguez"
+        }
+    ],
+    "partidos": [
+        {
+            "Id": 1,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-11 13:00",
+            "Estado": "FT",
+            "NombreLocal": "México",
+            "NombreVisitante": "Sudáfrica"
+        },
+        {
+            "Id": 2,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-11 20:00",
+            "Estado": "FT",
+            "NombreLocal": "Corea del Sur",
+            "NombreVisitante": "República Checa"
+        },
+        {
+            "Id": 3,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-12 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Canadá",
+            "NombreVisitante": "Bosnia y Herzegovina"
+        },
+        {
+            "Id": 4,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-12 19:00",
+            "Estado": "FT",
+            "NombreLocal": "Estados Unidos",
+            "NombreVisitante": "Paraguay"
+        },
+        {
+            "Id": 108,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-13 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Catar",
+            "NombreVisitante": "Suiza"
+        },
+        {
+            "Id": 107,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-13 16:00",
+            "Estado": "FT",
+            "NombreLocal": "Brasil",
+            "NombreVisitante": "Marruecos"
+        },
+        {
+            "Id": 105,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-13 19:00",
+            "Estado": "FT",
+            "NombreLocal": "Haití",
+            "NombreVisitante": "Escocia"
+        },
+        {
+            "Id": 106,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-13 22:00",
+            "Estado": "FT",
+            "NombreLocal": "Australia",
+            "NombreVisitante": "Turquía"
+        },
+        {
+            "Id": 110,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-14 11:00",
+            "Estado": "FT",
+            "NombreLocal": "Alemania",
+            "NombreVisitante": "Curazao"
+        },
+        {
+            "Id": 111,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-14 14:00",
+            "Estado": "FT",
+            "NombreLocal": "Países Bajos",
+            "NombreVisitante": "Japón"
+        },
+        {
+            "Id": 109,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-14 17:00",
+            "Estado": "FT",
+            "NombreLocal": "Costa de Marfil",
+            "NombreVisitante": "Ecuador"
+        },
+        {
+            "Id": 112,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-14 20:00",
+            "Estado": "FT",
+            "NombreLocal": "Suecia",
+            "NombreVisitante": "Túnez"
+        },
+        {
+            "Id": 114,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-15 10:00",
+            "Estado": "FT",
+            "NombreLocal": "España",
+            "NombreVisitante": "Cabo Verde"
+        },
+        {
+            "Id": 115,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-15 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Bélgica",
+            "NombreVisitante": "Egipto"
+        },
+        {
+            "Id": 116,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-15 16:00",
+            "Estado": "FT",
+            "NombreLocal": "Arabia Saudita",
+            "NombreVisitante": "Uruguay"
+        },
+        {
+            "Id": 113,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-15 19:00",
+            "Estado": "FT",
+            "NombreLocal": "Irán",
+            "NombreVisitante": "Nueva Zelanda"
+        },
+        {
+            "Id": 117,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-16 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Francia",
+            "NombreVisitante": "Senegal"
+        },
+        {
+            "Id": 118,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-16 16:00",
+            "Estado": "FT",
+            "NombreLocal": "Irak",
+            "NombreVisitante": "Noruega"
+        },
+        {
+            "Id": 119,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-16 19:00",
+            "Estado": "FT",
+            "NombreLocal": "Argentina",
+            "NombreVisitante": "Argelia"
+        },
+        {
+            "Id": 120,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-16 22:00",
+            "Estado": "FT",
+            "NombreLocal": "Austria",
+            "NombreVisitante": "Jordania"
+        },
+        {
+            "Id": 121,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-17 11:00",
+            "Estado": "FT",
+            "NombreLocal": "Portugal",
+            "NombreVisitante": "RD Congo"
+        },
+        {
+            "Id": 122,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-17 14:00",
+            "Estado": "FT",
+            "NombreLocal": "Inglaterra",
+            "NombreVisitante": "Croacia"
+        },
+        {
+            "Id": 124,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-17 17:00",
+            "Estado": "FT",
+            "NombreLocal": "Ghana",
+            "NombreVisitante": "Panamá"
+        },
+        {
+            "Id": 123,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-17 20:00",
+            "Estado": "FT",
+            "NombreLocal": "Uzbekistán",
+            "NombreVisitante": "Colombia"
+        },
+        {
+            "Id": 128,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-18 10:00",
+            "Estado": "FT",
+            "NombreLocal": "República Checa",
+            "NombreVisitante": "Sudáfrica"
+        },
+        {
+            "Id": 126,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-18 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Suiza",
+            "NombreVisitante": "Bosnia y Herzegovina"
+        },
+        {
+            "Id": 127,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-18 16:00",
+            "Estado": "FT",
+            "NombreLocal": "Canadá",
+            "NombreVisitante": "Catar"
+        },
+        {
+            "Id": 125,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-18 19:00",
+            "Estado": "FT",
+            "NombreLocal": "México",
+            "NombreVisitante": "Corea del Sur"
+        },
+        {
+            "Id": 131,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-19 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Estados Unidos",
+            "NombreVisitante": "Australia"
+        },
+        {
+            "Id": 130,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-19 16:00",
+            "Estado": "FT",
+            "NombreLocal": "Escocia",
+            "NombreVisitante": "Marruecos"
+        },
+        {
+            "Id": 129,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-19 18:30",
+            "Estado": "FT",
+            "NombreLocal": "Brasil",
+            "NombreVisitante": "Haití"
+        },
+        {
+            "Id": 132,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-19 21:00",
+            "Estado": "FT",
+            "NombreLocal": "Turquía",
+            "NombreVisitante": "Paraguay"
+        },
+        {
+            "Id": 135,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-20 11:00",
+            "Estado": "FT",
+            "NombreLocal": "Países Bajos",
+            "NombreVisitante": "Suecia"
+        },
+        {
+            "Id": 133,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-20 14:00",
+            "Estado": "FT",
+            "NombreLocal": "Alemania",
+            "NombreVisitante": "Costa de Marfil"
+        },
+        {
+            "Id": 134,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-20 18:00",
+            "Estado": "FT",
+            "NombreLocal": "Ecuador",
+            "NombreVisitante": "Curazao"
+        },
+        {
+            "Id": 136,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-20 22:00",
+            "Estado": "FT",
+            "NombreLocal": "Túnez",
+            "NombreVisitante": "Japón"
+        },
+        {
+            "Id": 139,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-21 10:00",
+            "Estado": "FT",
+            "NombreLocal": "España",
+            "NombreVisitante": "Arabia Saudita"
+        },
+        {
+            "Id": 137,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-21 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Bélgica",
+            "NombreVisitante": "Irán"
+        },
+        {
+            "Id": 140,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-21 16:00",
+            "Estado": "FT",
+            "NombreLocal": "Uruguay",
+            "NombreVisitante": "Cabo Verde"
+        },
+        {
+            "Id": 138,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-21 19:00",
+            "Estado": "FT",
+            "NombreLocal": "Nueva Zelanda",
+            "NombreVisitante": "Egipto"
+        },
+        {
+            "Id": 143,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-22 11:00",
+            "Estado": "FT",
+            "NombreLocal": "Argentina",
+            "NombreVisitante": "Austria"
+        },
+        {
+            "Id": 141,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-22 15:00",
+            "Estado": "FT",
+            "NombreLocal": "Francia",
+            "NombreVisitante": "Irak"
+        },
+        {
+            "Id": 142,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-22 18:00",
+            "Estado": "FT",
+            "NombreLocal": "Noruega",
+            "NombreVisitante": "Senegal"
+        },
+        {
+            "Id": 144,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-22 21:00",
+            "Estado": "FT",
+            "NombreLocal": "Jordania",
+            "NombreVisitante": "Argelia"
+        },
+        {
+            "Id": 145,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-23 11:00",
+            "Estado": "FT",
+            "NombreLocal": "Portugal",
+            "NombreVisitante": "Uzbekistán"
+        },
+        {
+            "Id": 148,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-23 14:00",
+            "Estado": "FT",
+            "NombreLocal": "Inglaterra",
+            "NombreVisitante": "Ghana"
+        },
+        {
+            "Id": 146,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-23 17:00",
+            "Estado": "FT",
+            "NombreLocal": "Panamá",
+            "NombreVisitante": "Croacia"
+        },
+        {
+            "Id": 147,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-23 20:00",
+            "Estado": "FT",
+            "NombreLocal": "Colombia",
+            "NombreVisitante": "RD Congo"
+        },
+        {
+            "Id": 153,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-24 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Bosnia y Herzegovina",
+            "NombreVisitante": "Catar"
+        },
+        {
+            "Id": 154,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-24 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Suiza",
+            "NombreVisitante": "Canadá"
+        },
+        {
+            "Id": 149,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-24 16:00",
+            "Estado": "FT",
+            "NombreLocal": "Escocia",
+            "NombreVisitante": "Brasil"
+        },
+        {
+            "Id": 150,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-24 16:00",
+            "Estado": "FT",
+            "NombreLocal": "Marruecos",
+            "NombreVisitante": "Haití"
+        },
+        {
+            "Id": 151,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-24 19:00",
+            "Estado": "FT",
+            "NombreLocal": "Sudáfrica",
+            "NombreVisitante": "Corea del Sur"
+        },
+        {
+            "Id": 152,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-24 19:00",
+            "Estado": "FT",
+            "NombreLocal": "República Checa",
+            "NombreVisitante": "México"
+        },
+        {
+            "Id": 155,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-25 14:00",
+            "Estado": "FT",
+            "NombreLocal": "Curazao",
+            "NombreVisitante": "Costa de Marfil"
+        },
+        {
+            "Id": 156,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-25 14:00",
+            "Estado": "FT",
+            "NombreLocal": "Ecuador",
+            "NombreVisitante": "Alemania"
+        },
+        {
+            "Id": 159,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-25 17:00",
+            "Estado": "FT",
+            "NombreLocal": "Japón",
+            "NombreVisitante": "Suecia"
+        },
+        {
+            "Id": 160,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-25 17:00",
+            "Estado": "FT",
+            "NombreLocal": "Túnez",
+            "NombreVisitante": "Países Bajos"
+        },
+        {
+            "Id": 157,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-25 20:00",
+            "Estado": "FT",
+            "NombreLocal": "Paraguay",
+            "NombreVisitante": "Australia"
+        },
+        {
+            "Id": 158,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-25 20:00",
+            "Estado": "FT",
+            "NombreLocal": "Turquía",
+            "NombreVisitante": "Estados Unidos"
+        },
+        {
+            "Id": 161,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-26 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Senegal",
+            "NombreVisitante": "Irak"
+        },
+        {
+            "Id": 162,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-26 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Noruega",
+            "NombreVisitante": "Francia"
+        },
+        {
+            "Id": 165,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-26 18:00",
+            "Estado": "FT",
+            "NombreLocal": "Cabo Verde",
+            "NombreVisitante": "Arabia Saudita"
+        },
+        {
+            "Id": 166,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-26 18:00",
+            "Estado": "FT",
+            "NombreLocal": "Uruguay",
+            "NombreVisitante": "España"
+        },
+        {
+            "Id": 163,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-26 21:00",
+            "Estado": "FT",
+            "NombreLocal": "Egipto",
+            "NombreVisitante": "Irán"
+        },
+        {
+            "Id": 164,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-26 21:00",
+            "Estado": "FT",
+            "NombreLocal": "Nueva Zelanda",
+            "NombreVisitante": "Bélgica"
+        },
+        {
+            "Id": 167,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-27 15:00",
+            "Estado": "FT",
+            "NombreLocal": "Panamá",
+            "NombreVisitante": "Inglaterra"
+        },
+        {
+            "Id": 168,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-27 15:00",
+            "Estado": "FT",
+            "NombreLocal": "Croacia",
+            "NombreVisitante": "Ghana"
+        },
+        {
+            "Id": 171,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-27 17:30",
+            "Estado": "FT",
+            "NombreLocal": "Colombia",
+            "NombreVisitante": "Portugal"
+        },
+        {
+            "Id": 172,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-27 17:30",
+            "Estado": "FT",
+            "NombreLocal": "RD Congo",
+            "NombreVisitante": "Uzbekistán"
+        },
+        {
+            "Id": 169,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-27 20:00",
+            "Estado": "FT",
+            "NombreLocal": "Argelia",
+            "NombreVisitante": "Austria"
+        },
+        {
+            "Id": 170,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-06-27 20:00",
+            "Estado": "FT",
+            "NombreLocal": "Jordania",
+            "NombreVisitante": "Argentina"
+        },
+        {
+            "Id": 173,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-06-28 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Sudáfrica",
+            "NombreVisitante": "Canadá"
+        },
+        {
+            "Id": 176,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-06-29 11:00",
+            "Estado": "FT",
+            "NombreLocal": "Brasil",
+            "NombreVisitante": "Japón"
+        },
+        {
+            "Id": 174,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-06-29 14:30",
+            "Estado": "FT",
+            "NombreLocal": "Alemania",
+            "NombreVisitante": "Paraguay"
+        },
+        {
+            "Id": 175,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-06-29 19:00",
+            "Estado": "FT",
+            "NombreLocal": "Países Bajos",
+            "NombreVisitante": "Marruecos"
+        },
+        {
+            "Id": 178,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-06-30 11:00",
+            "Estado": "FT",
+            "NombreLocal": "Costa de Marfil",
+            "NombreVisitante": "Noruega"
+        },
+        {
+            "Id": 177,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-06-30 15:00",
+            "Estado": "FT",
+            "NombreLocal": "Francia",
+            "NombreVisitante": "Suecia"
+        },
+        {
+            "Id": 179,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-06-30 20:00",
+            "Estado": "FT",
+            "NombreLocal": "México",
+            "NombreVisitante": "Ecuador"
+        },
+        {
+            "Id": 80,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-07-01 10:00",
+            "Estado": "FT",
+            "NombreLocal": "Inglaterra",
+            "NombreVisitante": "RD Congo"
+        },
+        {
+            "Id": 82,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-07-01 14:00",
+            "Estado": "AET",
+            "NombreLocal": "Bélgica",
+            "NombreVisitante": "Senegal"
+        },
+        {
+            "Id": 81,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-07-01 18:00",
+            "Estado": "FT",
+            "NombreLocal": "Estados Unidos",
+            "NombreVisitante": "Bosnia y Herzegovina"
+        },
+        {
+            "Id": 84,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-07-02 13:00",
+            "Estado": "FT",
+            "NombreLocal": "España",
+            "NombreVisitante": "Austria"
+        },
+        {
+            "Id": 83,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-07-02 17:00",
+            "Estado": "FT",
+            "NombreLocal": "Portugal",
+            "NombreVisitante": "Croacia"
+        },
+        {
+            "Id": 85,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-07-02 21:00",
+            "Estado": "FT",
+            "NombreLocal": "Suiza",
+            "NombreVisitante": "Argelia"
+        },
+        {
+            "Id": 88,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-07-03 12:00",
+            "Estado": "FT",
+            "NombreLocal": "Australia",
+            "NombreVisitante": "Egipto"
+        },
+        {
+            "Id": 86,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-07-03 16:00",
+            "Estado": "AET",
+            "NombreLocal": "Argentina",
+            "NombreVisitante": "Cabo Verde"
+        },
+        {
+            "Id": 87,
+            "Fase": "Dieciseisavos",
+            "FechaHoraCST": "2026-07-03 19:30",
+            "Estado": "FT",
+            "NombreLocal": "Colombia",
+            "NombreVisitante": "Ghana"
+        },
+        {
+            "Id": 90,
+            "Fase": "Octavos",
+            "FechaHoraCST": "2026-07-04 11:00",
+            "Estado": "FT",
+            "NombreLocal": "Canadá",
+            "NombreVisitante": "Marruecos"
+        },
+        {
+            "Id": 89,
+            "Fase": "Octavos",
+            "FechaHoraCST": "2026-07-04 15:00",
+            "Estado": "FT",
+            "NombreLocal": "Paraguay",
+            "NombreVisitante": "Francia"
+        },
+        {
+            "Id": 91,
+            "Fase": "Octavos",
+            "FechaHoraCST": "2026-07-05 14:00",
+            "Estado": "FT",
+            "NombreLocal": "Brasil",
+            "NombreVisitante": "Noruega"
+        },
+        {
+            "Id": 92,
+            "Fase": "Octavos",
+            "FechaHoraCST": "2026-07-05 19:00",
+            "Estado": "FT",
+            "NombreLocal": "México",
+            "NombreVisitante": "Inglaterra"
+        },
+        {
+            "Id": 93,
+            "Fase": "Octavos",
+            "FechaHoraCST": "2026-07-06 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Portugal",
+            "NombreVisitante": "España"
+        },
+        {
+            "Id": 94,
+            "Fase": "Octavos",
+            "FechaHoraCST": "2026-07-06 18:00",
+            "Estado": "FT",
+            "NombreLocal": "Estados Unidos",
+            "NombreVisitante": "Bélgica"
+        },
+        {
+            "Id": 95,
+            "Fase": "Octavos",
+            "FechaHoraCST": "2026-07-07 10:00",
+            "Estado": "FT",
+            "NombreLocal": "Argentina",
+            "NombreVisitante": "Egipto"
+        },
+        {
+            "Id": 96,
+            "Fase": "Octavos",
+            "FechaHoraCST": "2026-07-07 14:00",
+            "Estado": "FT",
+            "NombreLocal": "Suiza",
+            "NombreVisitante": "Colombia"
+        },
+        {
+            "Id": 97,
+            "Fase": "Cuartos",
+            "FechaHoraCST": "2026-07-09 14:00",
+            "Estado": "FT",
+            "NombreLocal": "Francia",
+            "NombreVisitante": "Marruecos"
+        },
+        {
+            "Id": 98,
+            "Fase": "Cuartos",
+            "FechaHoraCST": "2026-07-10 13:00",
+            "Estado": "FT",
+            "NombreLocal": "España",
+            "NombreVisitante": "Bélgica"
+        },
+        {
+            "Id": 99,
+            "Fase": "Cuartos",
+            "FechaHoraCST": "2026-07-11 15:00",
+            "Estado": "AET",
+            "NombreLocal": "Noruega",
+            "NombreVisitante": "Inglaterra"
+        },
+        {
+            "Id": 100,
+            "Fase": "Cuartos",
+            "FechaHoraCST": "2026-07-11 19:00",
+            "Estado": "AET",
+            "NombreLocal": "Argentina",
+            "NombreVisitante": "Suiza"
+        },
+        {
+            "Id": 180,
+            "Fase": "Semifinales",
+            "FechaHoraCST": "2026-07-14 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Francia",
+            "NombreVisitante": "España"
+        },
+        {
+            "Id": 181,
+            "Fase": "Semifinales",
+            "FechaHoraCST": "2026-07-15 13:00",
+            "Estado": "FT",
+            "NombreLocal": "Inglaterra",
+            "NombreVisitante": "Argentina"
+        },
+        {
+            "Id": 182,
+            "Fase": "Tercer Lugar",
+            "FechaHoraCST": "2026-07-18 15:00",
+            "Estado": "FT",
+            "NombreLocal": "Francia",
+            "NombreVisitante": "Inglaterra"
+        },
+        {
+            "Id": 183,
+            "Fase": "Final",
+            "FechaHoraCST": "2026-07-19 13:00",
+            "Estado": "AET",
+            "NombreLocal": "España",
+            "NombreVisitante": "Argentina"
+        },
+        {
+            "Id": 222,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-07-28 18:00",
+            "Estado": "NS",
+            "NombreLocal": "Verdes FC",
+            "NombreVisitante": "FC Motagua"
+        },
+        {
+            "Id": 223,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-07-28 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Club Deportivo Olimpia",
+            "NombreVisitante": "Deportivo Mixco"
+        },
+        {
+            "Id": 224,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-07-28 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Diriangén",
+            "NombreVisitante": "Plaza Amador"
+        },
+        {
+            "Id": 225,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-07-29 18:00",
+            "Estado": "NS",
+            "NombreLocal": "UMECIT FC",
+            "NombreVisitante": "Saprissa"
+        },
+        {
+            "Id": 226,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-07-29 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Alajuelense",
+            "NombreVisitante": "Xelajú MC"
+        },
+        {
+            "Id": 227,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-07-29 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Alianza FC",
+            "NombreVisitante": "Antigua GFC"
+        },
+        {
+            "Id": 228,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-07-30 19:00",
+            "Estado": "NS",
+            "NombreLocal": "Herediano",
+            "NombreVisitante": "Club Deportivo Marathón"
+        },
+        {
+            "Id": 229,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-07-30 21:00",
+            "Estado": "NS",
+            "NombreLocal": "Municipal",
+            "NombreVisitante": "Cartaginés"
+        },
+        {
+            "Id": 230,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-04 18:00",
+            "Estado": "NS",
+            "NombreLocal": "Plaza Amador",
+            "NombreVisitante": "Luis Ángel Firpo"
+        },
+        {
+            "Id": 231,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-04 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Antigua GFC",
+            "NombreVisitante": "Real Estelí"
+        },
+        {
+            "Id": 232,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-04 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Diriangén",
+            "NombreVisitante": "Alajuelense"
+        },
+        {
+            "Id": 233,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-05 18:00",
+            "Estado": "NS",
+            "NombreLocal": "UMECIT FC",
+            "NombreVisitante": "Club Deportivo Olimpia"
+        },
+        {
+            "Id": 234,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-05 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Alianza FC",
+            "NombreVisitante": "Herediano"
+        },
+        {
+            "Id": 235,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-05 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Saprissa",
+            "NombreVisitante": "Alianza FC"
+        },
+        {
+            "Id": 236,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-06 19:00",
+            "Estado": "NS",
+            "NombreLocal": "Verdes FC",
+            "NombreVisitante": "Municipal"
+        },
+        {
+            "Id": 237,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-06 21:00",
+            "Estado": "NS",
+            "NombreLocal": "FC Motagua",
+            "NombreVisitante": "CD FAS"
+        },
+        {
+            "Id": 238,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-11 18:00",
+            "Estado": "NS",
+            "NombreLocal": "Plaza Amador",
+            "NombreVisitante": "Xelajú MC"
+        },
+        {
+            "Id": 239,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-11 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Real Estelí",
+            "NombreVisitante": "Alianza FC"
+        },
+        {
+            "Id": 240,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-11 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Saprissa",
+            "NombreVisitante": "Deportivo Mixco"
+        },
+        {
+            "Id": 241,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-12 19:00",
+            "Estado": "NS",
+            "NombreLocal": "FC Motagua",
+            "NombreVisitante": "Cartaginés"
+        },
+        {
+            "Id": 242,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-12 21:00",
+            "Estado": "NS",
+            "NombreLocal": "CD FAS",
+            "NombreVisitante": "Verdes FC"
+        },
+        {
+            "Id": 243,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-13 18:00",
+            "Estado": "NS",
+            "NombreLocal": "Alianza FC",
+            "NombreVisitante": "UMECIT FC"
+        },
+        {
+            "Id": 244,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-13 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Antigua GFC",
+            "NombreVisitante": "Club Deportivo Marathón"
+        },
+        {
+            "Id": 245,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-13 20:00",
+            "Estado": "NS",
+            "NombreLocal": "Luis Ángel Firpo",
+            "NombreVisitante": "Diriangén"
+        },
+        {
+            "Id": 246,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-18 19:00",
+            "Estado": "NS",
+            "NombreLocal": "Cartaginés",
+            "NombreVisitante": "Verdes FC"
+        },
+        {
+            "Id": 247,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-18 21:00",
+            "Estado": "NS",
+            "NombreLocal": "Real Estelí",
+            "NombreVisitante": "Herediano"
+        },
+        {
+            "Id": 248,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-18 21:00",
+            "Estado": "NS",
+            "NombreLocal": "Xelajú MC",
+            "NombreVisitante": "Diriangén"
+        },
+        {
+            "Id": 249,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-19 19:00",
+            "Estado": "NS",
+            "NombreLocal": "Club Deportivo Marathón",
+            "NombreVisitante": "Alianza FC"
+        },
+        {
+            "Id": 250,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-19 19:00",
+            "Estado": "NS",
+            "NombreLocal": "Deportivo Mixco",
+            "NombreVisitante": "UMECIT FC"
+        },
+        {
+            "Id": 251,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-19 21:00",
+            "Estado": "NS",
+            "NombreLocal": "CD FAS",
+            "NombreVisitante": "Municipal"
+        },
+        {
+            "Id": 252,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-20 19:00",
+            "Estado": "NS",
+            "NombreLocal": "Alianza FC",
+            "NombreVisitante": "Club Deportivo Olimpia"
+        },
+        {
+            "Id": 253,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-20 21:00",
+            "Estado": "NS",
+            "NombreLocal": "Luis Ángel Firpo",
+            "NombreVisitante": "Alajuelense"
+        },
+        {
+            "Id": 254,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-25 20:30",
+            "Estado": "NS",
+            "NombreLocal": "Cartaginés",
+            "NombreVisitante": "CD FAS"
+        },
+        {
+            "Id": 255,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-25 20:30",
+            "Estado": "NS",
+            "NombreLocal": "Municipal",
+            "NombreVisitante": "FC Motagua"
+        },
+        {
+            "Id": 256,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-26 18:30",
+            "Estado": "NS",
+            "NombreLocal": "Club Deportivo Marathón",
+            "NombreVisitante": "Real Estelí"
+        },
+        {
+            "Id": 257,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-26 18:30",
+            "Estado": "NS",
+            "NombreLocal": "Herediano",
+            "NombreVisitante": "Antigua GFC"
+        },
+        {
+            "Id": 258,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-26 20:30",
+            "Estado": "NS",
+            "NombreLocal": "Alajuelense",
+            "NombreVisitante": "Plaza Amador"
+        },
+        {
+            "Id": 259,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-26 20:30",
+            "Estado": "NS",
+            "NombreLocal": "Xelajú MC",
+            "NombreVisitante": "Luis Ángel Firpo"
+        },
+        {
+            "Id": 260,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-27 20:30",
+            "Estado": "NS",
+            "NombreLocal": "Club Deportivo Olimpia",
+            "NombreVisitante": "Saprissa"
+        },
+        {
+            "Id": 261,
+            "Fase": "Grupos",
+            "FechaHoraCST": "2026-08-27 20:30",
+            "Estado": "NS",
+            "NombreLocal": "Deportivo Mixco",
+            "NombreVisitante": "Alianza FC"
+        }
+    ]
+}

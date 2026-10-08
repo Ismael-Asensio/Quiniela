@@ -1,0 +1,1145 @@
+{
+    "partidos": [
+        {
+            "Id": 222,
+            "FechaHoraCST": "2026-07-28 18:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 49,
+                "Nombre": "Verdes FC",
+                "CodigoISO": "VER",
+                "BanderaURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOwBIlRA9UtdRylEbpwhquLv8XBcjIconK9qxMesc2x6blv3IlxpJyoaX&s=10"
+            },
+            "EquipoVisitante": {
+                "Id": 52,
+                "Nombre": "FC Motagua",
+                "CodigoISO": "FCM",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7242.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 223,
+            "FechaHoraCST": "2026-07-28 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 53,
+                "Nombre": "Club Deportivo Olimpia",
+                "CodigoISO": "CLU",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/884.png"
+            },
+            "EquipoVisitante": {
+                "Id": 54,
+                "Nombre": "Deportivo Mixco",
+                "CodigoISO": "DEP",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/20036.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 224,
+            "FechaHoraCST": "2026-07-28 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 55,
+                "Nombre": "Diriangén",
+                "CodigoISO": "DIR",
+                "BanderaURL": "https://upload.wikimedia.org/wikipedia/en/9/95/Diriang%C3%A9n_FC_logo.png"
+            },
+            "EquipoVisitante": {
+                "Id": 56,
+                "Nombre": "Plaza Amador",
+                "CodigoISO": "PLA",
+                "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/Plaza-1024x1024.webp"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 225,
+            "FechaHoraCST": "2026-07-29 18:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 57,
+                "Nombre": "UMECIT FC",
+                "CodigoISO": "UME",
+                "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/LOGO-UMECIT-2023-1024x1024.webp"
+            },
+            "EquipoVisitante": {
+                "Id": 58,
+                "Nombre": "Saprissa",
+                "CodigoISO": "SAP",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/858.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 226,
+            "FechaHoraCST": "2026-07-29 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 59,
+                "Nombre": "Alajuelense",
+                "CodigoISO": "ALA",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/2057.png"
+            },
+            "EquipoVisitante": {
+                "Id": 60,
+                "Nombre": "Xelajú MC",
+                "CodigoISO": "XEL",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7259.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 227,
+            "FechaHoraCST": "2026-07-29 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 61,
+                "Nombre": "Alianza FC",
+                "CodigoISO": "ALI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png"
+            },
+            "EquipoVisitante": {
+                "Id": 62,
+                "Nombre": "Antigua GFC",
+                "CodigoISO": "ANT",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7253.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 228,
+            "FechaHoraCST": "2026-07-30 19:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 63,
+                "Nombre": "Herediano",
+                "CodigoISO": "HER",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/862.png"
+            },
+            "EquipoVisitante": {
+                "Id": 64,
+                "Nombre": "Club Deportivo Marathón",
+                "CodigoISO": "CLU",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7249.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 229,
+            "FechaHoraCST": "2026-07-30 21:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 65,
+                "Nombre": "Municipal",
+                "CodigoISO": "MUN",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7258.png"
+            },
+            "EquipoVisitante": {
+                "Id": 66,
+                "Nombre": "Cartaginés",
+                "CodigoISO": "CAR",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7239.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 230,
+            "FechaHoraCST": "2026-08-04 18:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 56,
+                "Nombre": "Plaza Amador",
+                "CodigoISO": "PLA",
+                "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/Plaza-1024x1024.webp"
+            },
+            "EquipoVisitante": {
+                "Id": 67,
+                "Nombre": "Luis Ángel Firpo",
+                "CodigoISO": "LUI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7232.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 231,
+            "FechaHoraCST": "2026-08-04 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 62,
+                "Nombre": "Antigua GFC",
+                "CodigoISO": "ANT",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7253.png"
+            },
+            "EquipoVisitante": {
+                "Id": 68,
+                "Nombre": "Real Estelí",
+                "CodigoISO": "REA",
+                "BanderaURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_del_Real_Estel%C3%AD.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 232,
+            "FechaHoraCST": "2026-08-04 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 55,
+                "Nombre": "Diriangén",
+                "CodigoISO": "DIR",
+                "BanderaURL": "https://upload.wikimedia.org/wikipedia/en/9/95/Diriang%C3%A9n_FC_logo.png"
+            },
+            "EquipoVisitante": {
+                "Id": 59,
+                "Nombre": "Alajuelense",
+                "CodigoISO": "ALA",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/2057.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 233,
+            "FechaHoraCST": "2026-08-05 18:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 57,
+                "Nombre": "UMECIT FC",
+                "CodigoISO": "UME",
+                "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/LOGO-UMECIT-2023-1024x1024.webp"
+            },
+            "EquipoVisitante": {
+                "Id": 53,
+                "Nombre": "Club Deportivo Olimpia",
+                "CodigoISO": "CLU",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/884.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 234,
+            "FechaHoraCST": "2026-08-05 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 61,
+                "Nombre": "Alianza FC",
+                "CodigoISO": "ALI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png"
+            },
+            "EquipoVisitante": {
+                "Id": 63,
+                "Nombre": "Herediano",
+                "CodigoISO": "HER",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/862.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 235,
+            "FechaHoraCST": "2026-08-05 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 58,
+                "Nombre": "Saprissa",
+                "CodigoISO": "SAP",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/858.png"
+            },
+            "EquipoVisitante": {
+                "Id": 61,
+                "Nombre": "Alianza FC",
+                "CodigoISO": "ALI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 236,
+            "FechaHoraCST": "2026-08-06 19:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 49,
+                "Nombre": "Verdes FC",
+                "CodigoISO": "VER",
+                "BanderaURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOwBIlRA9UtdRylEbpwhquLv8XBcjIconK9qxMesc2x6blv3IlxpJyoaX&s=10"
+            },
+            "EquipoVisitante": {
+                "Id": 65,
+                "Nombre": "Municipal",
+                "CodigoISO": "MUN",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7258.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 237,
+            "FechaHoraCST": "2026-08-06 21:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 52,
+                "Nombre": "FC Motagua",
+                "CodigoISO": "FCM",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7242.png"
+            },
+            "EquipoVisitante": {
+                "Id": 69,
+                "Nombre": "CD FAS",
+                "CodigoISO": "CDF",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7229.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 238,
+            "FechaHoraCST": "2026-08-11 18:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 56,
+                "Nombre": "Plaza Amador",
+                "CodigoISO": "PLA",
+                "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/Plaza-1024x1024.webp"
+            },
+            "EquipoVisitante": {
+                "Id": 60,
+                "Nombre": "Xelajú MC",
+                "CodigoISO": "XEL",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7259.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 239,
+            "FechaHoraCST": "2026-08-11 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 68,
+                "Nombre": "Real Estelí",
+                "CodigoISO": "REA",
+                "BanderaURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_del_Real_Estel%C3%AD.png"
+            },
+            "EquipoVisitante": {
+                "Id": 61,
+                "Nombre": "Alianza FC",
+                "CodigoISO": "ALI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 240,
+            "FechaHoraCST": "2026-08-11 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 58,
+                "Nombre": "Saprissa",
+                "CodigoISO": "SAP",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/858.png"
+            },
+            "EquipoVisitante": {
+                "Id": 54,
+                "Nombre": "Deportivo Mixco",
+                "CodigoISO": "DEP",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/20036.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 241,
+            "FechaHoraCST": "2026-08-12 19:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 52,
+                "Nombre": "FC Motagua",
+                "CodigoISO": "FCM",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7242.png"
+            },
+            "EquipoVisitante": {
+                "Id": 66,
+                "Nombre": "Cartaginés",
+                "CodigoISO": "CAR",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7239.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 242,
+            "FechaHoraCST": "2026-08-12 21:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 69,
+                "Nombre": "CD FAS",
+                "CodigoISO": "CDF",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7229.png"
+            },
+            "EquipoVisitante": {
+                "Id": 49,
+                "Nombre": "Verdes FC",
+                "CodigoISO": "VER",
+                "BanderaURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOwBIlRA9UtdRylEbpwhquLv8XBcjIconK9qxMesc2x6blv3IlxpJyoaX&s=10"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 243,
+            "FechaHoraCST": "2026-08-13 18:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 61,
+                "Nombre": "Alianza FC",
+                "CodigoISO": "ALI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png"
+            },
+            "EquipoVisitante": {
+                "Id": 57,
+                "Nombre": "UMECIT FC",
+                "CodigoISO": "UME",
+                "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/LOGO-UMECIT-2023-1024x1024.webp"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 244,
+            "FechaHoraCST": "2026-08-13 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 62,
+                "Nombre": "Antigua GFC",
+                "CodigoISO": "ANT",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7253.png"
+            },
+            "EquipoVisitante": {
+                "Id": 64,
+                "Nombre": "Club Deportivo Marathón",
+                "CodigoISO": "CLU",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7249.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 245,
+            "FechaHoraCST": "2026-08-13 20:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 67,
+                "Nombre": "Luis Ángel Firpo",
+                "CodigoISO": "LUI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7232.png"
+            },
+            "EquipoVisitante": {
+                "Id": 55,
+                "Nombre": "Diriangén",
+                "CodigoISO": "DIR",
+                "BanderaURL": "https://upload.wikimedia.org/wikipedia/en/9/95/Diriang%C3%A9n_FC_logo.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 246,
+            "FechaHoraCST": "2026-08-18 19:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 66,
+                "Nombre": "Cartaginés",
+                "CodigoISO": "CAR",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7239.png"
+            },
+            "EquipoVisitante": {
+                "Id": 49,
+                "Nombre": "Verdes FC",
+                "CodigoISO": "VER",
+                "BanderaURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOwBIlRA9UtdRylEbpwhquLv8XBcjIconK9qxMesc2x6blv3IlxpJyoaX&s=10"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 247,
+            "FechaHoraCST": "2026-08-18 21:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 68,
+                "Nombre": "Real Estelí",
+                "CodigoISO": "REA",
+                "BanderaURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_del_Real_Estel%C3%AD.png"
+            },
+            "EquipoVisitante": {
+                "Id": 63,
+                "Nombre": "Herediano",
+                "CodigoISO": "HER",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/862.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 248,
+            "FechaHoraCST": "2026-08-18 21:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 60,
+                "Nombre": "Xelajú MC",
+                "CodigoISO": "XEL",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7259.png"
+            },
+            "EquipoVisitante": {
+                "Id": 55,
+                "Nombre": "Diriangén",
+                "CodigoISO": "DIR",
+                "BanderaURL": "https://upload.wikimedia.org/wikipedia/en/9/95/Diriang%C3%A9n_FC_logo.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 249,
+            "FechaHoraCST": "2026-08-19 19:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 64,
+                "Nombre": "Club Deportivo Marathón",
+                "CodigoISO": "CLU",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7249.png"
+            },
+            "EquipoVisitante": {
+                "Id": 61,
+                "Nombre": "Alianza FC",
+                "CodigoISO": "ALI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 250,
+            "FechaHoraCST": "2026-08-19 19:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 54,
+                "Nombre": "Deportivo Mixco",
+                "CodigoISO": "DEP",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/20036.png"
+            },
+            "EquipoVisitante": {
+                "Id": 57,
+                "Nombre": "UMECIT FC",
+                "CodigoISO": "UME",
+                "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/LOGO-UMECIT-2023-1024x1024.webp"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 251,
+            "FechaHoraCST": "2026-08-19 21:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 69,
+                "Nombre": "CD FAS",
+                "CodigoISO": "CDF",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7229.png"
+            },
+            "EquipoVisitante": {
+                "Id": 65,
+                "Nombre": "Municipal",
+                "CodigoISO": "MUN",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7258.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 252,
+            "FechaHoraCST": "2026-08-20 19:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 61,
+                "Nombre": "Alianza FC",
+                "CodigoISO": "ALI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png"
+            },
+            "EquipoVisitante": {
+                "Id": 53,
+                "Nombre": "Club Deportivo Olimpia",
+                "CodigoISO": "CLU",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/884.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 253,
+            "FechaHoraCST": "2026-08-20 21:00:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 67,
+                "Nombre": "Luis Ángel Firpo",
+                "CodigoISO": "LUI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7232.png"
+            },
+            "EquipoVisitante": {
+                "Id": 59,
+                "Nombre": "Alajuelense",
+                "CodigoISO": "ALA",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/2057.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 254,
+            "FechaHoraCST": "2026-08-25 20:30:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 66,
+                "Nombre": "Cartaginés",
+                "CodigoISO": "CAR",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7239.png"
+            },
+            "EquipoVisitante": {
+                "Id": 69,
+                "Nombre": "CD FAS",
+                "CodigoISO": "CDF",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7229.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 255,
+            "FechaHoraCST": "2026-08-25 20:30:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 65,
+                "Nombre": "Municipal",
+                "CodigoISO": "MUN",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7258.png"
+            },
+            "EquipoVisitante": {
+                "Id": 52,
+                "Nombre": "FC Motagua",
+                "CodigoISO": "FCM",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7242.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 256,
+            "FechaHoraCST": "2026-08-26 18:30:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 64,
+                "Nombre": "Club Deportivo Marathón",
+                "CodigoISO": "CLU",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7249.png"
+            },
+            "EquipoVisitante": {
+                "Id": 68,
+                "Nombre": "Real Estelí",
+                "CodigoISO": "REA",
+                "BanderaURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_del_Real_Estel%C3%AD.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 257,
+            "FechaHoraCST": "2026-08-26 18:30:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 63,
+                "Nombre": "Herediano",
+                "CodigoISO": "HER",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/862.png"
+            },
+            "EquipoVisitante": {
+                "Id": 62,
+                "Nombre": "Antigua GFC",
+                "CodigoISO": "ANT",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7253.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 258,
+            "FechaHoraCST": "2026-08-26 20:30:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 59,
+                "Nombre": "Alajuelense",
+                "CodigoISO": "ALA",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/2057.png"
+            },
+            "EquipoVisitante": {
+                "Id": 56,
+                "Nombre": "Plaza Amador",
+                "CodigoISO": "PLA",
+                "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/Plaza-1024x1024.webp"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 259,
+            "FechaHoraCST": "2026-08-26 20:30:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 60,
+                "Nombre": "Xelajú MC",
+                "CodigoISO": "XEL",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7259.png"
+            },
+            "EquipoVisitante": {
+                "Id": 67,
+                "Nombre": "Luis Ángel Firpo",
+                "CodigoISO": "LUI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7232.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 260,
+            "FechaHoraCST": "2026-08-27 20:30:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 53,
+                "Nombre": "Club Deportivo Olimpia",
+                "CodigoISO": "CLU",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/884.png"
+            },
+            "EquipoVisitante": {
+                "Id": 58,
+                "Nombre": "Saprissa",
+                "CodigoISO": "SAP",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/858.png"
+            },
+            "Prediccion": null
+        },
+        {
+            "Id": 261,
+            "FechaHoraCST": "2026-08-27 20:30:00",
+            "GolesLocal": null,
+            "GolesVisitante": null,
+            "Estado": "NS",
+            "Fase": "Grupos",
+            "MultiplicadorFase": 1,
+            "Jornada": null,
+            "Sede": null,
+            "Bloqueado": false,
+            "CuotaLocal": null,
+            "CuotaEmpate": null,
+            "CuotaVisitante": null,
+            "EquipoLocal": {
+                "Id": 54,
+                "Nombre": "Deportivo Mixco",
+                "CodigoISO": "DEP",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/20036.png"
+            },
+            "EquipoVisitante": {
+                "Id": 61,
+                "Nombre": "Alianza FC",
+                "CodigoISO": "ALI",
+                "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png"
+            },
+            "Prediccion": null
+        }
+    ],
+    "fases": [
+        "Grupos"
+    ],
+    "fechas": [
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27"
+    ],
+    "horaServidor": "2026-07-27 16:02:13"
+}

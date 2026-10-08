@@ -1,0 +1,916 @@
+{
+    "success": true,
+    "message": "Cuotas de campeón cargadas",
+    "equipos": [
+        {
+            "IdEquipo": 59,
+            "Nombre": "Alajuelense",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/2057.png",
+            "CodigoISO": "ALA",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 38,
+            "Nombre": "Alemania",
+            "BanderaURL": "https://flagcdn.com/w80/de.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 16.899999999999999,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:51:58.667000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 61,
+            "Nombre": "Alianza FC",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png",
+            "CodigoISO": "ALI",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 62,
+            "Nombre": "Antigua GFC",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7253.png",
+            "CodigoISO": "ANT",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 18,
+            "Nombre": "Arabia Saudita",
+            "BanderaURL": "https://flagcdn.com/w80/sa.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 339.69,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:53:26.373000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 35,
+            "Nombre": "Argelia",
+            "BanderaURL": "https://flagcdn.com/w80/dz.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-03 16:24:34.610000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 24,
+            "Nombre": "Argentina",
+            "BanderaURL": "https://flagcdn.com/w80/ar.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 2.8300000000000001,
+            "CuotaFija": 1.75,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-22 14:19:25.520000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 45,
+            "Nombre": "Australia",
+            "BanderaURL": "https://flagcdn.com/w80/au.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 212.94,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-03 16:24:40.440000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 19,
+            "Nombre": "Austria",
+            "BanderaURL": "https://flagcdn.com/w80/at.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 86.189999999999998,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-07 08:19:05.783000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 46,
+            "Nombre": "Bélgica",
+            "BanderaURL": "https://flagcdn.com/w80/be.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 28.73,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-14 14:56:42.250000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 43,
+            "Nombre": "Bosnia y Herzegovina",
+            "BanderaURL": "https://flagcdn.com/w80/ba.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-02 12:20:29.980000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 2,
+            "Nombre": "Brasil",
+            "BanderaURL": "https://flagcdn.com/w80/br.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 15.210000000000001,
+            "CuotaFija": 3.4500000000000002,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-06 12:26:31.997000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 7,
+            "Nombre": "Cabo Verde",
+            "BanderaURL": "https://flagcdn.com/w80/cv.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-04 08:03:41.500000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 28,
+            "Nombre": "Canadá",
+            "BanderaURL": "https://flagcdn.com/w80/ca.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 136.88999999999999,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-06 12:27:02.883000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 66,
+            "Nombre": "Cartaginés",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7239.png",
+            "CodigoISO": "CAR",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 29,
+            "Nombre": "Catar",
+            "BanderaURL": "https://flagcdn.com/w80/qa.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 424.19,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:52:30.243000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 69,
+            "Nombre": "CD FAS",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7229.png",
+            "CodigoISO": "CDF",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 64,
+            "Nombre": "Club Deportivo Marathón",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7249.png",
+            "CodigoISO": "CLU",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 53,
+            "Nombre": "Club Deportivo Olimpia",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/884.png",
+            "CodigoISO": "CLU",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 14,
+            "Nombre": "Colombia",
+            "BanderaURL": "https://flagcdn.com/w80/co.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 43.939999999999998,
+            "CuotaFija": 12.48,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-09 11:29:22.030000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 21,
+            "Nombre": "Corea del Sur",
+            "BanderaURL": "https://flagcdn.com/w80/kr.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 113.23,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:52:36.673000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 5,
+            "Nombre": "Costa de Marfil",
+            "BanderaURL": "https://flagcdn.com/w80/ci.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:53:01.187000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 48,
+            "Nombre": "Croacia",
+            "BanderaURL": "https://flagcdn.com/w80/hr.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 57.460000000000001,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-03 16:24:52.917000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 33,
+            "Nombre": "Curazao",
+            "BanderaURL": "https://flagcdn.com/w80/cw.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:52:56.527000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 54,
+            "Nombre": "Deportivo Mixco",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/20036.png",
+            "CodigoISO": "DEP",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 55,
+            "Nombre": "Diriangén",
+            "BanderaURL": "https://upload.wikimedia.org/wikipedia/en/9/95/Diriang%C3%A9n_FC_logo.png",
+            "CodigoISO": "DIR",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 15,
+            "Nombre": "Ecuador",
+            "BanderaURL": "https://flagcdn.com/w80/ec.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 113.23,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-01 09:44:06.350000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 10,
+            "Nombre": "Egipto",
+            "BanderaURL": "https://flagcdn.com/w80/eg.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-09 11:29:29.490000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 3,
+            "Nombre": "Escocia",
+            "BanderaURL": "https://flagcdn.com/w80/gb-sct.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 212.94,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-01 09:43:34.203000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 22,
+            "Nombre": "España",
+            "BanderaURL": "https://flagcdn.com/w80/es.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 4.3600000000000003,
+            "CuotaFija": 1.55,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-22 14:19:30.667000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 44,
+            "Nombre": "Estados Unidos",
+            "BanderaURL": "https://flagcdn.com/w80/us.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 60.840000000000003,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-07 08:18:59.917000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 52,
+            "Nombre": "FC Motagua",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7242.png",
+            "CodigoISO": "FCM",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 8,
+            "Nombre": "Francia",
+            "BanderaURL": "https://flagcdn.com/w80/fr.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 2.4700000000000002,
+            "CuotaFija": 1.7,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-14 15:37:30.913000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 20,
+            "Nombre": "Ghana",
+            "BanderaURL": "https://flagcdn.com/w80/gh.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-04 08:04:14.723000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 37,
+            "Nombre": "Haití",
+            "BanderaURL": "https://flagcdn.com/w80/ht.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 846.69000000000005,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:51:49.050000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 63,
+            "Nombre": "Herediano",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/862.png",
+            "CodigoISO": "HER",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 26,
+            "Nombre": "Inglaterra",
+            "BanderaURL": "https://flagcdn.com/w80/gb-eng.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 11.83,
+            "CuotaFija": 2.0499999999999998,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-15 16:16:07.777000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 11,
+            "Nombre": "Irak",
+            "BanderaURL": "https://flagcdn.com/w80/iq.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:53:13.623000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 47,
+            "Nombre": "Irán",
+            "BanderaURL": "https://flagcdn.com/w80/ir.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 286.04000000000002,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-01 09:43:51.943000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 16,
+            "Nombre": "Japón",
+            "BanderaURL": "https://flagcdn.com/w80/jp.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 86.189999999999998,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:53:45.913000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 36,
+            "Nombre": "Jordania",
+            "BanderaURL": "https://flagcdn.com/w80/jo.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:52:22.510000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 67,
+            "Nombre": "Luis Ángel Firpo",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7232.png",
+            "CodigoISO": "LUI",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 31,
+            "Nombre": "Marruecos",
+            "BanderaURL": "https://flagcdn.com/w80/ma.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 57.460000000000001,
+            "CuotaFija": 8.9399999999999995,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-14 14:56:57.830000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 42,
+            "Nombre": "México",
+            "BanderaURL": "https://flagcdn.com/w80/mx.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 69.290000000000006,
+            "CuotaFija": 31.620000000000001,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-06 12:26:43.600000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 65,
+            "Nombre": "Municipal",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7258.png",
+            "CodigoISO": "MUN",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 23,
+            "Nombre": "Noruega",
+            "BanderaURL": "https://flagcdn.com/w80/no.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 58.82,
+            "CuotaFija": 6.25,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-14 14:57:04.877000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 17,
+            "Nombre": "Nueva Zelanda",
+            "BanderaURL": "https://flagcdn.com/w80/nz.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 508.69,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:53:09.073000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 6,
+            "Nombre": "Países Bajos",
+            "BanderaURL": "https://flagcdn.com/w80/nl.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 21.969999999999999,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:53:40.953000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 41,
+            "Nombre": "Panamá",
+            "BanderaURL": "https://flagcdn.com/w80/pa.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 339.69,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:52:51.550000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 32,
+            "Nombre": "Paraguay",
+            "BanderaURL": "https://flagcdn.com/w80/py.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 170.69,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-06 12:26:48.683000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 56,
+            "Nombre": "Plaza Amador",
+            "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/Plaza-1024x1024.webp",
+            "CodigoISO": "PLA",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 12,
+            "Nombre": "Portugal",
+            "BanderaURL": "https://flagcdn.com/w80/pt.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 18.59,
+            "CuotaFija": 2.5600000000000001,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-07 08:19:36.943000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 25,
+            "Nombre": "RD Congo",
+            "BanderaURL": "https://flagcdn.com/w80/cd.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-02 12:20:03.970000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 68,
+            "Nombre": "Real Estelí",
+            "BanderaURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_del_Real_Estel%C3%AD.png",
+            "CodigoISO": "REA",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 27,
+            "Nombre": "República Checa",
+            "BanderaURL": "https://flagcdn.com/w80/cz.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:52:41.740000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 58,
+            "Nombre": "Saprissa",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/858.png",
+            "CodigoISO": "SAP",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 40,
+            "Nombre": "Senegal",
+            "BanderaURL": "https://flagcdn.com/w80/sn.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 113.23,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-02 12:19:52.373000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 1,
+            "Nombre": "Sudáfrica",
+            "BanderaURL": "https://flagcdn.com/w80/za.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:54:31.440000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 34,
+            "Nombre": "Suecia",
+            "BanderaURL": "https://flagcdn.com/w80/se.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 170.69,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:54:09.663000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 30,
+            "Nombre": "Suiza",
+            "BanderaURL": "https://flagcdn.com/w80/ch.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 86.189999999999998,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-14 14:57:17.490000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 9,
+            "Nombre": "Túnez",
+            "BanderaURL": "https://flagcdn.com/w80/tn.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:52:15.030000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 4,
+            "Nombre": "Turquía",
+            "BanderaURL": "https://flagcdn.com/w80/tr.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 86.189999999999998,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:52:04.097000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 57,
+            "Nombre": "UMECIT FC",
+            "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/LOGO-UMECIT-2023-1024x1024.webp",
+            "CodigoISO": "UME",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 39,
+            "Nombre": "Uruguay",
+            "BanderaURL": "https://flagcdn.com/w80/uy.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 35.490000000000002,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-06-30 17:53:21.917000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 13,
+            "Nombre": "Uzbekistán",
+            "BanderaURL": "https://flagcdn.com/w80/uz.png",
+            "CodigoISO": null,
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": 1.01,
+            "Excluido": true,
+            "TieneCuotaFija": true,
+            "FechaActualizacion": {
+                "date": "2026-07-01 09:43:40.273000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            }
+        },
+        {
+            "IdEquipo": 49,
+            "Nombre": "Verdes FC",
+            "BanderaURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOwBIlRA9UtdRylEbpwhquLv8XBcjIconK9qxMesc2x6blv3IlxpJyoaX&s=10",
+            "CodigoISO": "VER",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        },
+        {
+            "IdEquipo": 60,
+            "Nombre": "Xelajú MC",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7259.png",
+            "CodigoISO": "XEL",
+            "CuotaDinamica": 8.4499999999999993,
+            "CuotaFija": null,
+            "Excluido": false,
+            "TieneCuotaFija": false
+        }
+    ]
+}

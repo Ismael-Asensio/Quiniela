@@ -1,0 +1,132 @@
+{
+    "success": true,
+    "resumen": {
+        "TotalApostado": 0,
+        "TotalGanado": 0,
+        "TotalPerdido": 0,
+        "GananciaNeta": 0,
+        "TotalApuestas": 0,
+        "Pendientes": 0,
+        "Ganadas": 0,
+        "Perdidas": 0
+    },
+    "apuestasPartidos": [],
+    "apuestasCampeon": [],
+    "equipos": [
+        {
+            "Id": 59,
+            "Nombre": "Alajuelense",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/2057.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 61,
+            "Nombre": "Alianza FC",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 62,
+            "Nombre": "Antigua GFC",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7253.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 66,
+            "Nombre": "Cartaginés",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7239.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 69,
+            "Nombre": "CD FAS",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7229.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 64,
+            "Nombre": "Club Deportivo Marathón",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7249.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 53,
+            "Nombre": "Club Deportivo Olimpia",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/884.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 54,
+            "Nombre": "Deportivo Mixco",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/20036.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 55,
+            "Nombre": "Diriangén",
+            "BanderaURL": "https://upload.wikimedia.org/wikipedia/en/9/95/Diriang%C3%A9n_FC_logo.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 52,
+            "Nombre": "FC Motagua",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7242.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 63,
+            "Nombre": "Herediano",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/862.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 67,
+            "Nombre": "Luis Ángel Firpo",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7232.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 65,
+            "Nombre": "Municipal",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7258.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 56,
+            "Nombre": "Plaza Amador",
+            "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/Plaza-1024x1024.webp",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 68,
+            "Nombre": "Real Estelí",
+            "BanderaURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_del_Real_Estel%C3%AD.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 58,
+            "Nombre": "Saprissa",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/858.png",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 57,
+            "Nombre": "UMECIT FC",
+            "BanderaURL": "https://lpf.com.pa/wp-content/uploads/2022/08/LOGO-UMECIT-2023-1024x1024.webp",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 49,
+            "Nombre": "Verdes FC",
+            "BanderaURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOwBIlRA9UtdRylEbpwhquLv8XBcjIconK9qxMesc2x6blv3IlxpJyoaX&s=10",
+            "CuotaActual": 8.4499999999999993
+        },
+        {
+            "Id": 60,
+            "Nombre": "Xelajú MC",
+            "BanderaURL": "https://a.espncdn.com/i/teamlogos/soccer/500/7259.png",
+            "CuotaActual": 8.4499999999999993
+        }
+    ],
+    "membresia": null
+}

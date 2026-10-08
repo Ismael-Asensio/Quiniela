@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "message": "Login exitoso",
+    "Id": 26,
+    "NombreUsuario": "Kelly",
+    "NombreCompleto": "Kelly Martinez",
+    "PuntosTotales": 12,
+    "IdRol": 4,
+    "isAdmin": false,
+    "esTesorero": false
+}
