@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "apuestasCampeon": [],
+    "apuestasPartidos": [],
+    "resumen": {
+        "TotalMontoCampeon": 0,
+        "TotalApuestasCampeon": 0,
+        "TotalMontoPartidos": 0,
+        "TotalApuestasPartidos": 0,
+        "PendientesPartidos": 0
+    }
+}

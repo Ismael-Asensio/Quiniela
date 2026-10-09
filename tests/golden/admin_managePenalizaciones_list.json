@@ -1,0 +1,2176 @@
+{
+    "success": true,
+    "penalizaciones": [
+        {
+            "Id": 49,
+            "IdUsuario": 3,
+            "PuntosRestados": 2,
+            "Motivo": "prueba",
+            "Estado": "Anulada",
+            "CreadaPor": 3,
+            "FechaCreacion": "2026-06-29 18:45:43",
+            "FechaModificacion": "2026-06-29 18:46:23",
+            "ModificadaPor": 3,
+            "IdTabla": 3,
+            "NombreUsuario": "iasensio",
+            "NombreCompleto": "Ismael Asensio",
+            "CreadaPorUsuario": "iasensio",
+            "ModificadaPorUsuario": "iasensio",
+            "NombreTabla": "Prinicipal2"
+        },
+        {
+            "Id": 48,
+            "IdUsuario": 52,
+            "PuntosRestados": 5,
+            "Motivo": "Menos 5 puntos por ir con Estados Unidos",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-26 14:34:57",
+            "FechaModificacion": null,
+            "ModificadaPor": null,
+            "IdTabla": 2,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": null,
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 47,
+            "IdUsuario": 52,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-20 07:23:57",
+            "FechaModificacion": "2026-06-20 07:27:42",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 46,
+            "IdUsuario": 52,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Anulada",
+            "CreadaPor": 3,
+            "FechaCreacion": "2026-06-20 02:44:22",
+            "FechaModificacion": "2026-06-20 07:23:15",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "CreadaPorUsuario": "iasensio",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 45,
+            "IdUsuario": 52,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Anulada",
+            "CreadaPor": 3,
+            "FechaCreacion": "2026-06-20 01:18:44",
+            "FechaModificacion": "2026-06-20 02:44:07",
+            "ModificadaPor": 3,
+            "IdTabla": 2,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "CreadaPorUsuario": "iasensio",
+            "ModificadaPorUsuario": "iasensio",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 44,
+            "IdUsuario": 52,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Anulada",
+            "CreadaPor": 3,
+            "FechaCreacion": "2026-06-20 01:14:53",
+            "FechaModificacion": "2026-06-20 01:18:18",
+            "ModificadaPor": 3,
+            "IdTabla": 2,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "CreadaPorUsuario": "iasensio",
+            "ModificadaPorUsuario": "iasensio",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 43,
+            "IdUsuario": 52,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Anulada",
+            "CreadaPor": 3,
+            "FechaCreacion": "2026-06-20 01:13:47",
+            "FechaModificacion": "2026-06-20 01:14:34",
+            "ModificadaPor": 3,
+            "IdTabla": 2,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "CreadaPorUsuario": "iasensio",
+            "ModificadaPorUsuario": "iasensio",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 42,
+            "IdUsuario": 52,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Anulada",
+            "CreadaPor": 3,
+            "FechaCreacion": "2026-06-19 23:40:07",
+            "FechaModificacion": "2026-06-20 00:52:55",
+            "ModificadaPor": 3,
+            "IdTabla": 2,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "CreadaPorUsuario": "iasensio",
+            "ModificadaPorUsuario": "iasensio",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 35,
+            "IdUsuario": 92,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:00",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "lrosas",
+            "NombreCompleto": "Luis Rosas",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 36,
+            "IdUsuario": 64,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:04",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "madiaz",
+            "NombreCompleto": "Mauricio Díaz",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 37,
+            "IdUsuario": 32,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:06",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "mdiaz",
+            "NombreCompleto": "Marlon Díaz",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 38,
+            "IdUsuario": 39,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:08",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "mrivera",
+            "NombreCompleto": "Mario Rivera",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 39,
+            "IdUsuario": 40,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:12",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "psaenz",
+            "NombreCompleto": "Pedro Sáenz",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 40,
+            "IdUsuario": 97,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:15",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "rramirez",
+            "NombreCompleto": "Ricardo Ramirez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 41,
+            "IdUsuario": 78,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:17",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "schavez",
+            "NombreCompleto": "Santiago Chavez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 24,
+            "IdUsuario": 33,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:19",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "cnorori",
+            "NombreCompleto": "César Norori",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 25,
+            "IdUsuario": 77,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:22",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "eherrera",
+            "NombreCompleto": "Eduardo Herrera",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 26,
+            "IdUsuario": 49,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:25",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "HECGONMO",
+            "NombreCompleto": "Hector Gonzalez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 27,
+            "IdUsuario": 62,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:28",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "Helmut Hurtado",
+            "NombreCompleto": "Helmuth Hurtado",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 28,
+            "IdUsuario": 38,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:29",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "henry",
+            "NombreCompleto": "Henry",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 29,
+            "IdUsuario": 54,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:32",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "hflores",
+            "NombreCompleto": "Holver Flores",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 30,
+            "IdUsuario": 47,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:35",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "irivera",
+            "NombreCompleto": "Isidro Rivera",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 31,
+            "IdUsuario": 75,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:37",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "Jbonilla76",
+            "NombreCompleto": "Julio Bonilla",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 32,
+            "IdUsuario": 80,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:40",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "Jespana",
+            "NombreCompleto": "Javier Alender Espana Ocampo",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 33,
+            "IdUsuario": 81,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:42",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "jjuarez",
+            "NombreCompleto": "Juan Benito Juarez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 34,
+            "IdUsuario": 36,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:46",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "jtoruno",
+            "NombreCompleto": "Jason Toruño",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 18,
+            "IdUsuario": 71,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:49",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "aramirez",
+            "NombreCompleto": "Amaru Ramirez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 19,
+            "IdUsuario": 27,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:51",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "canales",
+            "NombreCompleto": "Erick Canales",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 20,
+            "IdUsuario": 98,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:53",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "ccastro",
+            "NombreCompleto": "Carlos Castro",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 21,
+            "IdUsuario": 31,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:56",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "cfonseca",
+            "NombreCompleto": "Camilo Fonseca",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 22,
+            "IdUsuario": 46,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:28:58",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "Chema",
+            "NombreCompleto": "Chema Bermudez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 23,
+            "IdUsuario": 93,
+            "PuntosRestados": 1,
+            "Motivo": "Se retira un punto por haber brindado resultado favorable a Estados unidos ante Paraguay donde Estados unidos gano 4 a 1",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:46:41",
+            "FechaModificacion": "2026-06-20 07:29:00",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "clazo",
+            "NombreCompleto": "Carlos Lazo",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 15,
+            "IdUsuario": 63,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:02",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "olivas",
+            "NombreCompleto": "Otoniel olivas",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 16,
+            "IdUsuario": 78,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:04",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "schavez",
+            "NombreCompleto": "Santiago Chavez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 17,
+            "IdUsuario": 34,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:06",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "vsanchez",
+            "NombreCompleto": "Víctor Hugo Sánchez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 5,
+            "IdUsuario": 86,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": null,
+            "ModificadaPor": null,
+            "IdTabla": 2,
+            "NombreUsuario": "Emairena",
+            "NombreCompleto": "Edwin mairena",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": null,
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 6,
+            "IdUsuario": 91,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:08",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "esabla",
+            "NombreCompleto": "Edwin Sabla",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 7,
+            "IdUsuario": 58,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:10",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "fpaz",
+            "NombreCompleto": "Francisco Paz",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 8,
+            "IdUsuario": 49,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:12",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "HECGONMO",
+            "NombreCompleto": "Hector Gonzalez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 9,
+            "IdUsuario": 62,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:14",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "Helmut Hurtado",
+            "NombreCompleto": "Helmuth Hurtado",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 10,
+            "IdUsuario": 52,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Anulada",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-19 23:39:33",
+            "ModificadaPor": 3,
+            "IdTabla": 2,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "iasensio",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 11,
+            "IdUsuario": 54,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:17",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "hflores",
+            "NombreCompleto": "Holver Flores",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 12,
+            "IdUsuario": 75,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:18",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "Jbonilla76",
+            "NombreCompleto": "Julio Bonilla",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 13,
+            "IdUsuario": 39,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:21",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "mrivera",
+            "NombreCompleto": "Mario Rivera",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 14,
+            "IdUsuario": 61,
+            "PuntosRestados": 1,
+            "Motivo": "Se ajusta el punto por ajustar al ganador de estados unidos vs australia quitándose 1 punto",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:39:37",
+            "FechaModificacion": "2026-06-20 07:29:23",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "mrosas2026",
+            "NombreCompleto": "Manuel Rosas",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 2,
+            "IdUsuario": 102,
+            "PuntosRestados": 3,
+            "Motivo": "Se quitan los puntos obtenidos por haber acertado resultado de estaods unidos en el segundo partido ante australia",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:36:06",
+            "FechaModificacion": "2026-06-20 07:29:24",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "dvazquez",
+            "NombreCompleto": "Diego Vazquez",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 3,
+            "IdUsuario": 92,
+            "PuntosRestados": 3,
+            "Motivo": "Se quitan los puntos obtenidos por haber acertado resultado de estaods unidos en el segundo partido ante australia",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:36:06",
+            "FechaModificacion": "2026-06-20 07:29:29",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "lrosas",
+            "NombreCompleto": "Luis Rosas",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 4,
+            "IdUsuario": 103,
+            "PuntosRestados": 3,
+            "Motivo": "Se quitan los puntos obtenidos por haber acertado resultado de estaods unidos en el segundo partido ante australia",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:36:06",
+            "FechaModificacion": "2026-06-20 07:29:31",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "peragallo",
+            "NombreCompleto": "Ramiro Peragallo",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        },
+        {
+            "Id": 1,
+            "IdUsuario": 89,
+            "PuntosRestados": 3,
+            "Motivo": "Se quitan los puntos obtenidos por haber acertado resultado de estaods unidos en el segundo partido ante australia",
+            "Estado": "Activa",
+            "CreadaPor": 4,
+            "FechaCreacion": "2026-06-19 19:36:06",
+            "FechaModificacion": "2026-06-20 07:29:32",
+            "ModificadaPor": 4,
+            "IdTabla": 2,
+            "NombreUsuario": "cfornos",
+            "NombreCompleto": "Cesar Fornos",
+            "CreadaPorUsuario": "cvande",
+            "ModificadaPorUsuario": "cvande",
+            "NombreTabla": "Principal"
+        }
+    ],
+    "usuarios": [
+        {
+            "Id": 96,
+            "NombreUsuario": "acruz",
+            "NombreCompleto": "Alirio Cruz",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 15:40:01.673000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 1,
+            "NombreUsuario": "admin",
+            "NombreCompleto": "Administrador",
+            "PuntosTotales": 0,
+            "IdRol": 1,
+            "NombreRol": "Admin",
+            "FechaCreacion": {
+                "date": "2026-06-10 22:09:37.560000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 6,
+            "NombreUsuario": "Agaton",
+            "NombreCompleto": "Antonio",
+            "PuntosTotales": 93,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 09:58:18.897000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 25,
+            "NombreUsuario": "Altair",
+            "NombreCompleto": "Alexander Francisco Sandino Gonzalez",
+            "PuntosTotales": 86,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:23:29.670000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 71,
+            "NombreUsuario": "aramirez",
+            "NombreCompleto": "Amaru Ramirez",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 15:14:42.610000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 100,
+            "NombreUsuario": "bsantana",
+            "NombreCompleto": "Bismarck Santana",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-13 12:37:13.557000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 27,
+            "NombreUsuario": "canales",
+            "NombreCompleto": "Erick Canales",
+            "PuntosTotales": 80,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 22,
+            "NombreUsuario": "Cazardor94",
+            "NombreCompleto": "Michael",
+            "PuntosTotales": 77,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:17:09.300000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 98,
+            "NombreUsuario": "ccastro",
+            "NombreCompleto": "Carlos Castro",
+            "PuntosTotales": 48,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 16:44:21.657000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 94,
+            "NombreUsuario": "ccuadra",
+            "NombreCompleto": "Carlos Cuadra",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 15:18:26.380000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 31,
+            "NombreUsuario": "cfonseca",
+            "NombreCompleto": "Camilo Fonseca",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 89,
+            "NombreUsuario": "cfornos",
+            "NombreCompleto": "Cesar Fornos",
+            "PuntosTotales": 76,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 11:53:17.667000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 67,
+            "NombreUsuario": "Cguada",
+            "NombreCompleto": "Carlos Guadamuz",
+            "PuntosTotales": 64,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 14:40:26.540000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 46,
+            "NombreUsuario": "Chema",
+            "NombreCompleto": "Chema Bermudez",
+            "PuntosTotales": 54,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 12:43:33.200000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 84,
+            "NombreUsuario": "chepejuarez",
+            "NombreCompleto": "Jose Ignacio Juarez",
+            "PuntosTotales": 76,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:29:15.317000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 93,
+            "NombreUsuario": "clazo",
+            "NombreCompleto": "Carlos Lazo",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 13:26:05.973000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 33,
+            "NombreUsuario": "cnorori",
+            "NombreCompleto": "César Norori",
+            "PuntosTotales": 99,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 7,
+            "NombreUsuario": "csilva",
+            "NombreCompleto": "Christian",
+            "PuntosTotales": 46,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 10:33:34.227000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 4,
+            "NombreUsuario": "cvande",
+            "NombreCompleto": "Carlos Van de Velde",
+            "PuntosTotales": 106,
+            "IdRol": 1,
+            "NombreRol": "Admin",
+            "FechaCreacion": {
+                "date": "2026-06-10 23:40:37.120000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 104,
+            "NombreUsuario": "Ddo",
+            "NombreCompleto": "Donald Umaña",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-17 08:52:38.840000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 56,
+            "NombreUsuario": "dperez",
+            "NombreCompleto": "Douglas Pérez",
+            "PuntosTotales": 93,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 76,
+            "NombreUsuario": "dsalinas",
+            "NombreCompleto": "Denis Salinas",
+            "PuntosTotales": 62,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:32:50.920000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 102,
+            "NombreUsuario": "dvazquez",
+            "NombreCompleto": "Diego Vazquez",
+            "PuntosTotales": 74,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-15 17:40:45.450000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 41,
+            "NombreUsuario": "egarcia",
+            "NombreCompleto": "Elena Garcia",
+            "PuntosTotales": 49,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:40:08.667000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 77,
+            "NombreUsuario": "eherrera",
+            "NombreCompleto": "Eduardo Herrera",
+            "PuntosTotales": 73,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:40:10.857000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 86,
+            "NombreUsuario": "Emairena",
+            "NombreCompleto": "Edwin mairena",
+            "PuntosTotales": 69,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 19:56:16.963000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 91,
+            "NombreUsuario": "esabla",
+            "NombreCompleto": "Edwin Sabla",
+            "PuntosTotales": 35,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 13:10:00.303000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 58,
+            "NombreUsuario": "fpaz",
+            "NombreCompleto": "Francisco Paz",
+            "PuntosTotales": 66,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 45,
+            "NombreUsuario": "Gbix",
+            "NombreCompleto": "Romel Jose Hermida",
+            "PuntosTotales": 26,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 12:30:28.723000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 5,
+            "NombreUsuario": "Gloaisiga",
+            "NombreCompleto": "Greys",
+            "PuntosTotales": 88,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 08:48:25.833000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 49,
+            "NombreUsuario": "HECGONMO",
+            "NombreCompleto": "Hector Gonzalez",
+            "PuntosTotales": 61,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:01:49.627000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 62,
+            "NombreUsuario": "Helmut Hurtado",
+            "NombreCompleto": "Helmuth Hurtado",
+            "PuntosTotales": 100,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:12:27.183000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 38,
+            "NombreUsuario": "henry",
+            "NombreCompleto": "Henry",
+            "PuntosTotales": 79,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 52,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "PuntosTotales": 89,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 54,
+            "NombreUsuario": "hflores",
+            "NombreCompleto": "Holver Flores",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 18,
+            "NombreUsuario": "Hsantana",
+            "NombreCompleto": "Heydi S",
+            "PuntosTotales": 1,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:11:59.163000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 3,
+            "NombreUsuario": "iasensio",
+            "NombreCompleto": "Ismael Asensio",
+            "PuntosTotales": 76,
+            "IdRol": 1,
+            "NombreRol": "Admin",
+            "FechaCreacion": {
+                "date": "2026-06-10 23:06:46.200000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 47,
+            "NombreUsuario": "irivera",
+            "NombreCompleto": "Isidro Rivera",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 12:50:03.557000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 75,
+            "NombreUsuario": "Jbonilla76",
+            "NombreCompleto": "Julio Bonilla",
+            "PuntosTotales": 89,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:32:49.293000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 69,
+            "NombreUsuario": "Jcedeño505",
+            "NombreCompleto": "Jerson Cedeño",
+            "PuntosTotales": 73,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 14:42:04.383000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 10,
+            "NombreUsuario": "jdarcia",
+            "NombreCompleto": "José David Arcia",
+            "PuntosTotales": 77,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:00:59.710000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 80,
+            "NombreUsuario": "Jespana",
+            "NombreCompleto": "Javier Alender Espana Ocampo",
+            "PuntosTotales": 84,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:02:26.603000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 99,
+            "NombreUsuario": "jfmora",
+            "NombreCompleto": "Juan Francisco Mora",
+            "PuntosTotales": 8,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-13 12:23:47.360000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 81,
+            "NombreUsuario": "jjuarez",
+            "NombreCompleto": "Juan Benito Juarez",
+            "PuntosTotales": 85,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:26:30.980000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 30,
+            "NombreUsuario": "jmatamoros",
+            "NombreCompleto": "Jhon Matamoros",
+            "PuntosTotales": 99,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 14,
+            "NombreUsuario": "JorgeG",
+            "NombreCompleto": "Jorge García",
+            "PuntosTotales": 70,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:05:37.787000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 74,
+            "NombreUsuario": "Jprado",
+            "NombreCompleto": "Javier prado",
+            "PuntosTotales": 67,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:18:08.110000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 107,
+            "NombreUsuario": "JRNIC",
+            "NombreCompleto": "JRNIC",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-07-09 15:20:35.700000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 90,
+            "NombreUsuario": "jsalinas",
+            "NombreCompleto": "Javier Salinas",
+            "PuntosTotales": 10,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 13:03:41.800000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 36,
+            "NombreUsuario": "jtoruno",
+            "NombreCompleto": "Jason Toruño",
+            "PuntosTotales": 61,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 26,
+            "NombreUsuario": "Kelly",
+            "NombreCompleto": "Kelly Martinez",
+            "PuntosTotales": 12,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:27:51.020000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 92,
+            "NombreUsuario": "lrosas",
+            "NombreCompleto": "Luis Rosas",
+            "PuntosTotales": 81,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 13:14:06.277000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 64,
+            "NombreUsuario": "madiaz",
+            "NombreCompleto": "Mauricio Díaz",
+            "PuntosTotales": 73,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:31:04.123000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 21,
+            "NombreUsuario": "mbustos",
+            "NombreCompleto": "María José Bustos Bustos",
+            "PuntosTotales": 17,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:16:23.780000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 32,
+            "NombreUsuario": "mdiaz",
+            "NombreCompleto": "Marlon Díaz",
+            "PuntosTotales": 76,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 55,
+            "NombreUsuario": "mduarte",
+            "NombreCompleto": "Maximiliano Duarte",
+            "PuntosTotales": 61,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 19,
+            "NombreUsuario": "Mercedes",
+            "NombreCompleto": "Mercedes",
+            "PuntosTotales": 52,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:14:55.320000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 12,
+            "NombreUsuario": "Meyling Vasquez04",
+            "NombreCompleto": "Meyling",
+            "PuntosTotales": 4,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:01:19.540000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 70,
+            "NombreUsuario": "Mohamed_21C",
+            "NombreCompleto": "Hamed",
+            "PuntosTotales": 29,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 14:44:32.543000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 88,
+            "NombreUsuario": "mreynosa",
+            "NombreCompleto": "Mirian Reynosa",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 11:33:27.883000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 39,
+            "NombreUsuario": "mrivera",
+            "NombreCompleto": "Mario Rivera",
+            "PuntosTotales": 77,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 61,
+            "NombreUsuario": "mrosas2026",
+            "NombreCompleto": "Manuel Rosas",
+            "PuntosTotales": 96,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:11:12.963000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 44,
+            "NombreUsuario": "Nestor Soto",
+            "NombreCompleto": "Nestor Ariel Soto Palma",
+            "PuntosTotales": 64,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 12:26:46.490000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 16,
+            "NombreUsuario": "ney123",
+            "NombreCompleto": "Ney",
+            "PuntosTotales": 50,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:07:28.230000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 85,
+            "NombreUsuario": "ngonzalez",
+            "NombreCompleto": "Noel Gonzalez",
+            "PuntosTotales": 66,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:31:11.613000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 101,
+            "NombreUsuario": "nnarvaez",
+            "NombreCompleto": "Norman Narvaez",
+            "PuntosTotales": 79,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-13 14:10:24.950000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 17,
+            "NombreUsuario": "oeliezer",
+            "NombreCompleto": "Osman Eliezer",
+            "PuntosTotales": 97,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:11:35.463000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 63,
+            "NombreUsuario": "olivas",
+            "NombreCompleto": "Otoniel olivas",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:29:56.230000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 83,
+            "NombreUsuario": "pargenal",
+            "NombreCompleto": "Pavel Argeñal",
+            "PuntosTotales": 61,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:28:24.453000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 103,
+            "NombreUsuario": "peragallo",
+            "NombreCompleto": "Ramiro Peragallo",
+            "PuntosTotales": 7,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-15 17:46:42.070000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 37,
+            "NombreUsuario": "porozco",
+            "NombreCompleto": "Pedro Orozco",
+            "PuntosTotales": 69,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 40,
+            "NombreUsuario": "psaenz",
+            "NombreCompleto": "Pedro Sáenz",
+            "PuntosTotales": 82,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 65,
+            "NombreUsuario": "rcasco",
+            "NombreCompleto": "Rommel Casco",
+            "PuntosTotales": 74,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:32:31.013000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 105,
+            "NombreUsuario": "Reycruz",
+            "NombreCompleto": "Reynaldo cruz",
+            "PuntosTotales": 74,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-18 18:42:52.027000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 29,
+            "NombreUsuario": "rmairena",
+            "NombreCompleto": "Reynaldo Mairena",
+            "PuntosTotales": 66,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 15,
+            "NombreUsuario": "roger",
+            "NombreCompleto": "Roger",
+            "PuntosTotales": 76,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:06:49.470000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 97,
+            "NombreUsuario": "rramirez",
+            "NombreCompleto": "Ricardo Ramirez",
+            "PuntosTotales": 1,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 15:43:59.743000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 95,
+            "NombreUsuario": "rrodriguez",
+            "NombreCompleto": "Rodolfo Rodriguez",
+            "PuntosTotales": 53,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 15:30:27.163000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 87,
+            "NombreUsuario": "rvillachica",
+            "NombreCompleto": "Rodolfo Villachica",
+            "PuntosTotales": 93,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-12 09:31:02.120000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 78,
+            "NombreUsuario": "schavez",
+            "NombreCompleto": "Santiago Chavez",
+            "PuntosTotales": 73,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:41:09.233000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 68,
+            "NombreUsuario": "si_apiche",
+            "NombreCompleto": "ariel eduardo piche norori",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 14:40:32.063000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 42,
+            "NombreUsuario": "si_eramirez",
+            "NombreCompleto": "Edward Ramirez",
+            "PuntosTotales": 43,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:40:10.343000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 23,
+            "NombreUsuario": "si_erocha",
+            "NombreCompleto": "Estefania Rocha Orellana",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:19:01.640000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 9,
+            "NombreUsuario": "si_jpastran",
+            "NombreCompleto": "Jonathan Pastran",
+            "PuntosTotales": 47,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 10:58:19.670000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 43,
+            "NombreUsuario": "si_kmartinez",
+            "NombreCompleto": "Kevin Leonardo Martinez Zuniga",
+            "PuntosTotales": 63,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:47:12.637000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 11,
+            "NombreUsuario": "si_lurroz",
+            "NombreCompleto": "Liz Gutierrez",
+            "PuntosTotales": 52,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:01:16.460000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 20,
+            "NombreUsuario": "si_mguerrero",
+            "NombreCompleto": "Milker Guerrero",
+            "PuntosTotales": 67,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:15:50.447000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 73,
+            "NombreUsuario": "Si_svallecillo",
+            "NombreCompleto": "Suyen Vallecillo",
+            "PuntosTotales": 1,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 15:59:09.200000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 82,
+            "NombreUsuario": "sjarquin",
+            "NombreCompleto": "Sergio Jarquín",
+            "PuntosTotales": 44,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:27:17.410000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 59,
+            "NombreUsuario": "solivas",
+            "NombreCompleto": "Samuel Olivas",
+            "PuntosTotales": 1,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 2,
+            "NombreUsuario": "testuser",
+            "NombreCompleto": "Test User",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-10 23:00:35.143000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 8,
+            "NombreUsuario": "Tuckler",
+            "NombreCompleto": "Tuckler",
+            "PuntosTotales": 75,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 10:54:41.230000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 13,
+            "NombreUsuario": "violetf.2003",
+            "NombreCompleto": "Violet Gutierrez",
+            "PuntosTotales": 86,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:02:07.037000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 34,
+            "NombreUsuario": "vsanchez",
+            "NombreCompleto": "Víctor Hugo Sánchez",
+            "PuntosTotales": 72,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 28,
+            "NombreUsuario": "wrodriguez",
+            "NombreCompleto": "William Rodríguez",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        }
+    ],
+    "resumen": {
+        "Total": 49,
+        "Activas": 42,
+        "Anuladas": 7,
+        "TotalPuntosRestados": 54
+    }
+}

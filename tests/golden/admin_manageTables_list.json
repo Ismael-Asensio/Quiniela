@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "tablas": [
+        {
+            "Id": 4,
+            "Nombre": "COPA CENTROAMERICANA",
+            "Descripcion": "PRINCIPAL",
+            "CreadaPor": 3,
+            "CreadaPorUsuario": "iasensio",
+            "FechaCreacion": {
+                "date": "2026-07-22 08:52:13.070000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "FaseInicio": "Grupos",
+            "TotalMiembros": 0
+        }
+    ]
+}

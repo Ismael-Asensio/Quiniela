@@ -1,0 +1,2943 @@
+{
+    "success": true,
+    "users": [
+        {
+            "Id": 96,
+            "NombreUsuario": "acruz",
+            "NombreCompleto": "Alirio Cruz",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 15:40:01.673000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 1,
+            "NombreUsuario": "admin",
+            "NombreCompleto": "Administrador",
+            "PuntosTotales": 0,
+            "IdRol": 1,
+            "NombreRol": "Admin",
+            "FechaCreacion": {
+                "date": "2026-06-10 22:09:37.560000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 6,
+            "NombreUsuario": "Agaton",
+            "NombreCompleto": "Antonio",
+            "PuntosTotales": 93,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 09:58:18.897000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 25,
+            "NombreUsuario": "Altair",
+            "NombreCompleto": "Alexander Francisco Sandino Gonzalez",
+            "PuntosTotales": 86,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:23:29.670000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 71,
+            "NombreUsuario": "aramirez",
+            "NombreCompleto": "Amaru Ramirez",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 15:14:42.610000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 100,
+            "NombreUsuario": "bsantana",
+            "NombreCompleto": "Bismarck Santana",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-13 12:37:13.557000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 27,
+            "NombreUsuario": "canales",
+            "NombreCompleto": "Erick Canales",
+            "PuntosTotales": 80,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 22,
+            "NombreUsuario": "Cazardor94",
+            "NombreCompleto": "Michael",
+            "PuntosTotales": 77,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:17:09.300000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 98,
+            "NombreUsuario": "ccastro",
+            "NombreCompleto": "Carlos Castro",
+            "PuntosTotales": 48,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 16:44:21.657000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 94,
+            "NombreUsuario": "ccuadra",
+            "NombreCompleto": "Carlos Cuadra",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 15:18:26.380000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 31,
+            "NombreUsuario": "cfonseca",
+            "NombreCompleto": "Camilo Fonseca",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 89,
+            "NombreUsuario": "cfornos",
+            "NombreCompleto": "Cesar Fornos",
+            "PuntosTotales": 76,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 11:53:17.667000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 67,
+            "NombreUsuario": "Cguada",
+            "NombreCompleto": "Carlos Guadamuz",
+            "PuntosTotales": 64,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 14:40:26.540000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 46,
+            "NombreUsuario": "Chema",
+            "NombreCompleto": "Chema Bermudez",
+            "PuntosTotales": 54,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 12:43:33.200000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 84,
+            "NombreUsuario": "chepejuarez",
+            "NombreCompleto": "Jose Ignacio Juarez",
+            "PuntosTotales": 76,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:29:15.317000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 93,
+            "NombreUsuario": "clazo",
+            "NombreCompleto": "Carlos Lazo",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 13:26:05.973000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 33,
+            "NombreUsuario": "cnorori",
+            "NombreCompleto": "César Norori",
+            "PuntosTotales": 99,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 7,
+            "NombreUsuario": "csilva",
+            "NombreCompleto": "Christian",
+            "PuntosTotales": 46,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 10:33:34.227000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 4,
+            "NombreUsuario": "cvande",
+            "NombreCompleto": "Carlos Van de Velde",
+            "PuntosTotales": 106,
+            "IdRol": 1,
+            "NombreRol": "Admin",
+            "FechaCreacion": {
+                "date": "2026-06-10 23:40:37.120000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 104,
+            "NombreUsuario": "Ddo",
+            "NombreCompleto": "Donald Umaña",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-17 08:52:38.840000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 56,
+            "NombreUsuario": "dperez",
+            "NombreCompleto": "Douglas Pérez",
+            "PuntosTotales": 93,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 76,
+            "NombreUsuario": "dsalinas",
+            "NombreCompleto": "Denis Salinas",
+            "PuntosTotales": 62,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:32:50.920000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 102,
+            "NombreUsuario": "dvazquez",
+            "NombreCompleto": "Diego Vazquez",
+            "PuntosTotales": 74,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-15 17:40:45.450000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 41,
+            "NombreUsuario": "egarcia",
+            "NombreCompleto": "Elena Garcia",
+            "PuntosTotales": 49,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:40:08.667000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 77,
+            "NombreUsuario": "eherrera",
+            "NombreCompleto": "Eduardo Herrera",
+            "PuntosTotales": 73,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:40:10.857000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 86,
+            "NombreUsuario": "Emairena",
+            "NombreCompleto": "Edwin mairena",
+            "PuntosTotales": 69,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 19:56:16.963000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 91,
+            "NombreUsuario": "esabla",
+            "NombreCompleto": "Edwin Sabla",
+            "PuntosTotales": 35,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 13:10:00.303000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 58,
+            "NombreUsuario": "fpaz",
+            "NombreCompleto": "Francisco Paz",
+            "PuntosTotales": 66,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 45,
+            "NombreUsuario": "Gbix",
+            "NombreCompleto": "Romel Jose Hermida",
+            "PuntosTotales": 26,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 12:30:28.723000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 5,
+            "NombreUsuario": "Gloaisiga",
+            "NombreCompleto": "Greys",
+            "PuntosTotales": 88,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 08:48:25.833000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 49,
+            "NombreUsuario": "HECGONMO",
+            "NombreCompleto": "Hector Gonzalez",
+            "PuntosTotales": 61,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:01:49.627000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 62,
+            "NombreUsuario": "Helmut Hurtado",
+            "NombreCompleto": "Helmuth Hurtado",
+            "PuntosTotales": 100,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:12:27.183000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 38,
+            "NombreUsuario": "henry",
+            "NombreCompleto": "Henry",
+            "PuntosTotales": 79,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 52,
+            "NombreUsuario": "hestrada",
+            "NombreCompleto": "Helmut Estrada",
+            "PuntosTotales": 89,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 54,
+            "NombreUsuario": "hflores",
+            "NombreCompleto": "Holver Flores",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 18,
+            "NombreUsuario": "Hsantana",
+            "NombreCompleto": "Heydi S",
+            "PuntosTotales": 1,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:11:59.163000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 3,
+            "NombreUsuario": "iasensio",
+            "NombreCompleto": "Ismael Asensio",
+            "PuntosTotales": 76,
+            "IdRol": 1,
+            "NombreRol": "Admin",
+            "FechaCreacion": {
+                "date": "2026-06-10 23:06:46.200000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 47,
+            "NombreUsuario": "irivera",
+            "NombreCompleto": "Isidro Rivera",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 12:50:03.557000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 75,
+            "NombreUsuario": "Jbonilla76",
+            "NombreCompleto": "Julio Bonilla",
+            "PuntosTotales": 89,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:32:49.293000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 69,
+            "NombreUsuario": "Jcedeño505",
+            "NombreCompleto": "Jerson Cedeño",
+            "PuntosTotales": 73,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 14:42:04.383000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 10,
+            "NombreUsuario": "jdarcia",
+            "NombreCompleto": "José David Arcia",
+            "PuntosTotales": 77,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:00:59.710000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 80,
+            "NombreUsuario": "Jespana",
+            "NombreCompleto": "Javier Alender Espana Ocampo",
+            "PuntosTotales": 84,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:02:26.603000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 99,
+            "NombreUsuario": "jfmora",
+            "NombreCompleto": "Juan Francisco Mora",
+            "PuntosTotales": 8,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-13 12:23:47.360000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 81,
+            "NombreUsuario": "jjuarez",
+            "NombreCompleto": "Juan Benito Juarez",
+            "PuntosTotales": 85,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:26:30.980000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 30,
+            "NombreUsuario": "jmatamoros",
+            "NombreCompleto": "Jhon Matamoros",
+            "PuntosTotales": 99,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 14,
+            "NombreUsuario": "JorgeG",
+            "NombreCompleto": "Jorge García",
+            "PuntosTotales": 70,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:05:37.787000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 74,
+            "NombreUsuario": "Jprado",
+            "NombreCompleto": "Javier prado",
+            "PuntosTotales": 67,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:18:08.110000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 107,
+            "NombreUsuario": "JRNIC",
+            "NombreCompleto": "JRNIC",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-07-09 15:20:35.700000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 90,
+            "NombreUsuario": "jsalinas",
+            "NombreCompleto": "Javier Salinas",
+            "PuntosTotales": 10,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 13:03:41.800000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 36,
+            "NombreUsuario": "jtoruno",
+            "NombreCompleto": "Jason Toruño",
+            "PuntosTotales": 61,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 26,
+            "NombreUsuario": "Kelly",
+            "NombreCompleto": "Kelly Martinez",
+            "PuntosTotales": 12,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:27:51.020000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 92,
+            "NombreUsuario": "lrosas",
+            "NombreCompleto": "Luis Rosas",
+            "PuntosTotales": 81,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 13:14:06.277000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 64,
+            "NombreUsuario": "madiaz",
+            "NombreCompleto": "Mauricio Díaz",
+            "PuntosTotales": 73,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:31:04.123000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 21,
+            "NombreUsuario": "mbustos",
+            "NombreCompleto": "María José Bustos Bustos",
+            "PuntosTotales": 17,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:16:23.780000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 32,
+            "NombreUsuario": "mdiaz",
+            "NombreCompleto": "Marlon Díaz",
+            "PuntosTotales": 76,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 55,
+            "NombreUsuario": "mduarte",
+            "NombreCompleto": "Maximiliano Duarte",
+            "PuntosTotales": 61,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 19,
+            "NombreUsuario": "Mercedes",
+            "NombreCompleto": "Mercedes",
+            "PuntosTotales": 52,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:14:55.320000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 12,
+            "NombreUsuario": "Meyling Vasquez04",
+            "NombreCompleto": "Meyling",
+            "PuntosTotales": 4,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:01:19.540000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 70,
+            "NombreUsuario": "Mohamed_21C",
+            "NombreCompleto": "Hamed",
+            "PuntosTotales": 29,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 14:44:32.543000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 88,
+            "NombreUsuario": "mreynosa",
+            "NombreCompleto": "Mirian Reynosa",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 11:33:27.883000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 39,
+            "NombreUsuario": "mrivera",
+            "NombreCompleto": "Mario Rivera",
+            "PuntosTotales": 77,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 61,
+            "NombreUsuario": "mrosas2026",
+            "NombreCompleto": "Manuel Rosas",
+            "PuntosTotales": 96,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:11:12.963000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 44,
+            "NombreUsuario": "Nestor Soto",
+            "NombreCompleto": "Nestor Ariel Soto Palma",
+            "PuntosTotales": 64,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 12:26:46.490000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 16,
+            "NombreUsuario": "ney123",
+            "NombreCompleto": "Ney",
+            "PuntosTotales": 50,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:07:28.230000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 85,
+            "NombreUsuario": "ngonzalez",
+            "NombreCompleto": "Noel Gonzalez",
+            "PuntosTotales": 66,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:31:11.613000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 101,
+            "NombreUsuario": "nnarvaez",
+            "NombreCompleto": "Norman Narvaez",
+            "PuntosTotales": 79,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-13 14:10:24.950000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 17,
+            "NombreUsuario": "oeliezer",
+            "NombreCompleto": "Osman Eliezer",
+            "PuntosTotales": 97,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:11:35.463000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 63,
+            "NombreUsuario": "olivas",
+            "NombreCompleto": "Otoniel olivas",
+            "PuntosTotales": 83,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:29:56.230000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 83,
+            "NombreUsuario": "pargenal",
+            "NombreCompleto": "Pavel Argeñal",
+            "PuntosTotales": 61,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:28:24.453000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 103,
+            "NombreUsuario": "peragallo",
+            "NombreCompleto": "Ramiro Peragallo",
+            "PuntosTotales": 7,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-15 17:46:42.070000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 37,
+            "NombreUsuario": "porozco",
+            "NombreCompleto": "Pedro Orozco",
+            "PuntosTotales": 69,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 40,
+            "NombreUsuario": "psaenz",
+            "NombreCompleto": "Pedro Sáenz",
+            "PuntosTotales": 82,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 65,
+            "NombreUsuario": "rcasco",
+            "NombreCompleto": "Rommel Casco",
+            "PuntosTotales": 74,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:32:31.013000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 105,
+            "NombreUsuario": "Reycruz",
+            "NombreCompleto": "Reynaldo cruz",
+            "PuntosTotales": 74,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-18 18:42:52.027000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 29,
+            "NombreUsuario": "rmairena",
+            "NombreCompleto": "Reynaldo Mairena",
+            "PuntosTotales": 66,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 15,
+            "NombreUsuario": "roger",
+            "NombreCompleto": "Roger",
+            "PuntosTotales": 76,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:06:49.470000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 97,
+            "NombreUsuario": "rramirez",
+            "NombreCompleto": "Ricardo Ramirez",
+            "PuntosTotales": 1,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 15:43:59.743000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 95,
+            "NombreUsuario": "rrodriguez",
+            "NombreCompleto": "Rodolfo Rodriguez",
+            "PuntosTotales": 53,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-12 15:30:27.163000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 87,
+            "NombreUsuario": "rvillachica",
+            "NombreCompleto": "Rodolfo Villachica",
+            "PuntosTotales": 93,
+            "IdRol": 3,
+            "NombreRol": "Miembro",
+            "FechaCreacion": {
+                "date": "2026-06-12 09:31:02.120000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": "100.00"
+        },
+        {
+            "Id": 78,
+            "NombreUsuario": "schavez",
+            "NombreCompleto": "Santiago Chavez",
+            "PuntosTotales": 73,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 16:41:09.233000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 68,
+            "NombreUsuario": "si_apiche",
+            "NombreCompleto": "ariel eduardo piche norori",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 14:40:32.063000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 42,
+            "NombreUsuario": "si_eramirez",
+            "NombreCompleto": "Edward Ramirez",
+            "PuntosTotales": 43,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:40:10.343000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 23,
+            "NombreUsuario": "si_erocha",
+            "NombreCompleto": "Estefania Rocha Orellana",
+            "PuntosTotales": 65,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:19:01.640000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 9,
+            "NombreUsuario": "si_jpastran",
+            "NombreCompleto": "Jonathan Pastran",
+            "PuntosTotales": 47,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 10:58:19.670000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 43,
+            "NombreUsuario": "si_kmartinez",
+            "NombreCompleto": "Kevin Leonardo Martinez Zuniga",
+            "PuntosTotales": 63,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:47:12.637000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 11,
+            "NombreUsuario": "si_lurroz",
+            "NombreCompleto": "Liz Gutierrez",
+            "PuntosTotales": 52,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:01:16.460000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 20,
+            "NombreUsuario": "si_mguerrero",
+            "NombreCompleto": "Milker Guerrero",
+            "PuntosTotales": 67,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:15:50.447000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 73,
+            "NombreUsuario": "Si_svallecillo",
+            "NombreCompleto": "Suyen Vallecillo",
+            "PuntosTotales": 1,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 15:59:09.200000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 82,
+            "NombreUsuario": "sjarquin",
+            "NombreCompleto": "Sergio Jarquín",
+            "PuntosTotales": 44,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 18:27:17.410000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 59,
+            "NombreUsuario": "solivas",
+            "NombreCompleto": "Samuel Olivas",
+            "PuntosTotales": 1,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 13:06:50.307000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 2,
+            "NombreUsuario": "testuser",
+            "NombreCompleto": "Test User",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-10 23:00:35.143000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 8,
+            "NombreUsuario": "Tuckler",
+            "NombreCompleto": "Tuckler",
+            "PuntosTotales": 75,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 10:54:41.230000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 13,
+            "NombreUsuario": "violetf.2003",
+            "NombreCompleto": "Violet Gutierrez",
+            "PuntosTotales": 86,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:02:07.037000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 34,
+            "NombreUsuario": "vsanchez",
+            "NombreCompleto": "Víctor Hugo Sánchez",
+            "PuntosTotales": 72,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        },
+        {
+            "Id": 28,
+            "NombreUsuario": "wrodriguez",
+            "NombreCompleto": "William Rodríguez",
+            "PuntosTotales": 0,
+            "IdRol": 4,
+            "NombreRol": "Usuario",
+            "FechaCreacion": {
+                "date": "2026-06-11 11:31:12.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "MontoPagado": ".00"
+        }
+    ],
+    "tablas": [
+        {
+            "Id": 1,
+            "Nombre": "DGS",
+            "Descripcion": "Direccion General de Sistemas",
+            "CreadaPor": 3,
+            "FechaCreacion": {
+                "date": "2026-06-11 09:22:03.093000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "FaseInicio": null,
+            "IdCompeticion": 1,
+            "TotalMiembros": 33
+        },
+        {
+            "Id": 2,
+            "Nombre": "Principal",
+            "Descripcion": "Principal",
+            "CreadaPor": 3,
+            "FechaCreacion": {
+                "date": "2026-06-11 09:59:29.397000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "FaseInicio": null,
+            "IdCompeticion": 1,
+            "TotalMiembros": 61
+        },
+        {
+            "Id": 3,
+            "Nombre": "Prinicipal2",
+            "Descripcion": "Despacho",
+            "CreadaPor": 4,
+            "FechaCreacion": {
+                "date": "2026-06-29 17:45:59.227000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "FaseInicio": "Dieciseisavos",
+            "IdCompeticion": 1,
+            "TotalMiembros": 35
+        },
+        {
+            "Id": 4,
+            "Nombre": "COPA CENTROAMERICANA",
+            "Descripcion": "PRINCIPAL",
+            "CreadaPor": 3,
+            "FechaCreacion": {
+                "date": "2026-07-22 08:52:13.070000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "FaseInicio": "Grupos",
+            "IdCompeticion": 2,
+            "TotalMiembros": 0
+        }
+    ],
+    "membresias": [
+        {
+            "IdTabla": 1,
+            "IdUsuario": 2,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:03:32.750000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 3,
+            "FechaIngreso": {
+                "date": "2026-06-11 09:55:03.897000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 4,
+            "FechaIngreso": {
+                "date": "2026-06-11 09:55:02.160000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 5,
+            "FechaIngreso": {
+                "date": "2026-06-11 09:22:10.270000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 7,
+            "FechaIngreso": {
+                "date": "2026-06-11 10:34:20.650000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 8,
+            "FechaIngreso": {
+                "date": "2026-06-11 10:55:36.490000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 9,
+            "FechaIngreso": {
+                "date": "2026-06-11 10:58:54.080000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 10,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:01:37.707000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 11,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:03:29.980000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 12,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:03:31.513000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 13,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:03:39.790000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 14,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:06:45.370000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 15,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:08:30.013000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 16,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:08:29.763000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 17,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:15:06.900000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 18,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:15:02.770000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 19,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:15:04.770000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 20,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:34:25.120000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 21,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:34:41.900000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 22,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:34:56.337000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 23,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:34:30.177000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 25,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:34:54.020000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 26,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:34:43.777000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 42,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:41:47.833000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 43,
+            "FechaIngreso": {
+                "date": "2026-06-11 12:11:27.377000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 44,
+            "FechaIngreso": {
+                "date": "2026-06-11 12:32:55.293000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 67,
+            "FechaIngreso": {
+                "date": "2026-06-11 14:59:55.677000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 68,
+            "FechaIngreso": {
+                "date": "2026-06-12 00:12:10.090000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 69,
+            "FechaIngreso": {
+                "date": "2026-06-11 15:00:11.650000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 70,
+            "FechaIngreso": {
+                "date": "2026-06-11 15:00:18.697000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 73,
+            "FechaIngreso": {
+                "date": "2026-06-12 00:12:14.720000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 88,
+            "FechaIngreso": {
+                "date": "2026-06-12 11:33:44.443000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 1,
+            "IdUsuario": 104,
+            "FechaIngreso": {
+                "date": "2026-06-17 08:52:56.987000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 4,
+            "FechaIngreso": {
+                "date": "2026-06-11 12:53:10.817000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 5,
+            "FechaIngreso": {
+                "date": "2026-06-11 10:22:10.450000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 6,
+            "FechaIngreso": {
+                "date": "2026-06-11 09:59:33.120000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 27,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:32:51.910000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 28,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:32.190000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 29,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:25.430000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 30,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:11.700000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 31,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:32:59.277000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 32,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:15.220000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 33,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:00.217000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 34,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:40.013000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 36,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:13.127000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 37,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:21.507000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 38,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:03.610000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 39,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:19.970000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 40,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:33:22.570000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 41,
+            "FechaIngreso": {
+                "date": "2026-06-11 11:41:10.903000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 46,
+            "FechaIngreso": {
+                "date": "2026-06-11 12:44:31.380000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 47,
+            "FechaIngreso": {
+                "date": "2026-06-11 12:51:24.180000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 49,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:11:03.703000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 52,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:08:20.370000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 54,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:09:56.773000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 55,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:10:06.533000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 56,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:10:21.910000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 58,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:10:50.183000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 59,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:11:00.947000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 61,
+            "FechaIngreso": {
+                "date": "2026-06-11 15:33:27.543000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 62,
+            "FechaIngreso": {
+                "date": "2026-06-11 15:45:09.977000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 63,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:33:42.000000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 64,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:33:51.667000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 65,
+            "FechaIngreso": {
+                "date": "2026-06-11 13:34:00.943000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 71,
+            "FechaIngreso": {
+                "date": "2026-06-11 15:17:12.620000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 74,
+            "FechaIngreso": {
+                "date": "2026-06-12 00:15:33.650000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 75,
+            "FechaIngreso": {
+                "date": "2026-06-13 12:21:41.730000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 76,
+            "FechaIngreso": {
+                "date": "2026-06-11 16:33:22.833000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 77,
+            "FechaIngreso": {
+                "date": "2026-06-11 16:42:35.397000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 78,
+            "FechaIngreso": {
+                "date": "2026-06-11 16:42:27.557000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 80,
+            "FechaIngreso": {
+                "date": "2026-06-12 00:15:25.013000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 81,
+            "FechaIngreso": {
+                "date": "2026-06-12 00:14:34.387000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 82,
+            "FechaIngreso": {
+                "date": "2026-06-15 11:37:35.407000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 83,
+            "FechaIngreso": {
+                "date": "2026-06-12 00:15:53.780000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 84,
+            "FechaIngreso": {
+                "date": "2026-06-12 00:14:46.273000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 85,
+            "FechaIngreso": {
+                "date": "2026-06-12 00:15:56.737000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 86,
+            "FechaIngreso": {
+                "date": "2026-06-12 00:15:02.043000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 87,
+            "FechaIngreso": {
+                "date": "2026-06-12 09:31:48.117000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 89,
+            "FechaIngreso": {
+                "date": "2026-06-12 13:15:13.693000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 90,
+            "FechaIngreso": {
+                "date": "2026-06-12 13:14:47.457000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 91,
+            "FechaIngreso": {
+                "date": "2026-06-12 13:15:05.857000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 92,
+            "FechaIngreso": {
+                "date": "2026-06-12 13:14:44.937000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 93,
+            "FechaIngreso": {
+                "date": "2026-06-12 16:19:40.100000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 94,
+            "FechaIngreso": {
+                "date": "2026-06-12 16:19:32.433000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 95,
+            "FechaIngreso": {
+                "date": "2026-06-12 16:21:37.510000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 96,
+            "FechaIngreso": {
+                "date": "2026-06-12 16:19:22.980000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 97,
+            "FechaIngreso": {
+                "date": "2026-06-12 16:21:35.303000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 98,
+            "FechaIngreso": {
+                "date": "2026-06-15 11:36:35.087000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 99,
+            "FechaIngreso": {
+                "date": "2026-06-13 12:24:05.230000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 100,
+            "FechaIngreso": {
+                "date": "2026-06-13 18:12:09.200000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 101,
+            "FechaIngreso": {
+                "date": "2026-06-13 18:12:00.130000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 102,
+            "FechaIngreso": {
+                "date": "2026-06-15 18:01:07.720000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 103,
+            "FechaIngreso": {
+                "date": "2026-06-15 18:01:37.960000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 2,
+            "IdUsuario": 105,
+            "FechaIngreso": {
+                "date": "2026-06-18 18:59:58.267000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 3,
+            "FechaIngreso": {
+                "date": "2026-06-29 18:44:14.213000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 4,
+            "FechaIngreso": {
+                "date": "2026-07-20 10:21:01.007000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 6,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:46:10.130000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 27,
+            "FechaIngreso": {
+                "date": "2026-07-01 12:02:48.957000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 29,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:48:15.140000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 30,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:47:36.360000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 31,
+            "FechaIngreso": {
+                "date": "2026-06-30 09:15:21.533000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 33,
+            "FechaIngreso": {
+                "date": "2026-07-06 13:55:53.153000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 34,
+            "FechaIngreso": {
+                "date": "2026-07-09 16:06:27.420000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 37,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:48:02.200000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 38,
+            "FechaIngreso": {
+                "date": "2026-07-01 12:07:12.220000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 40,
+            "FechaIngreso": {
+                "date": "2026-07-01 20:36:04.840000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 46,
+            "FechaIngreso": {
+                "date": "2026-06-30 12:24:18.490000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 47,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:47:26.797000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 52,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:47:16.550000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 55,
+            "FechaIngreso": {
+                "date": "2026-07-02 12:14:42.603000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 56,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:47:03.157000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 61,
+            "FechaIngreso": {
+                "date": "2026-07-01 12:15:34.397000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 65,
+            "FechaIngreso": {
+                "date": "2026-07-01 12:04:34.610000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 71,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:46:46.700000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 74,
+            "FechaIngreso": {
+                "date": "2026-07-02 14:12:28.483000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 75,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:47:27.750000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 76,
+            "FechaIngreso": {
+                "date": "2026-07-01 12:13:10.043000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 80,
+            "FechaIngreso": {
+                "date": "2026-06-30 12:24:26.750000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 81,
+            "FechaIngreso": {
+                "date": "2026-07-01 12:02:12.573000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 83,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:47:59.773000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 85,
+            "FechaIngreso": {
+                "date": "2026-07-01 12:07:35.000000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 86,
+            "FechaIngreso": {
+                "date": "2026-07-01 12:02:03.780000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 87,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:48:22.773000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 89,
+            "FechaIngreso": {
+                "date": "2026-07-10 10:14:36.517000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 92,
+            "FechaIngreso": {
+                "date": "2026-07-02 12:45:36.203000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 93,
+            "FechaIngreso": {
+                "date": "2026-07-01 12:03:03.070000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 96,
+            "FechaIngreso": {
+                "date": "2026-06-30 12:26:08.250000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 100,
+            "FechaIngreso": {
+                "date": "2026-06-30 12:24:04.097000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        },
+        {
+            "IdTabla": 3,
+            "IdUsuario": 105,
+            "FechaIngreso": {
+                "date": "2026-06-29 17:48:09.180000",
+                "timezone_type": 3,
+                "timezone": "America/Managua"
+            },
+            "PuedeVer": 0,
+            "PuedeExportar": 0,
+            "MostrarEnRanking": 0
+        }
+    ]
+}

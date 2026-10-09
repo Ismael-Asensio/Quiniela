@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "competiciones": [
+        {
+            "Id": 1,
+            "Nombre": "Mundial 2026",
+            "Activa": false,
+            "FechaInicio": "2026-11-06"
+        },
+        {
+            "Id": 2,
+            "Nombre": "Copa Centroamericana",
+            "Activa": true,
+            "FechaInicio": "2026-07-28"
+        }
+    ]
+}

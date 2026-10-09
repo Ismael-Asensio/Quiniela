@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "message": "Login exitoso",
+    "Id": 3,
+    "NombreUsuario": "iasensio",
+    "NombreCompleto": "Ismael Asensio",
+    "PuntosTotales": 76,
+    "IdRol": 1,
+    "isAdmin": true,
+    "esTesorero": true
+}
